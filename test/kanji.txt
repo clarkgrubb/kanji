@@ -1,0 +1,4412 @@
+* [#1_100 001–100]
+* [#101_200 101–200]
+* [#201_300 201–300]
+* [#301_400 301-400]
+* [#401_500 401-500]
+* [#501_600 501-600]
+* [#601_700 601-700]
+* [#back-matter Back Matter]
+
+[[# 1_100]]
++ 1–100
+
+||~ ||~ 1||~ 2||~ 3||~ 4||~ 5||~ 6||~ 7||~ 8||~ 9||~ 0||
+||~ [#001 1]||一||二||三||四||五||六||七||八||九||十||
+||~ [#011 11]||分||本||時||何||百||千||万||円||大||小||
+||~ [#021 21]||行||日||月||年||間||今||人||子||女||男||
+||~ [#031 31]||作||曜||土||火||水||木||金||来||山||田||
+||~ [#041 41]||使||出||休||学||生||先||知||見||週||毎||
+||~ [#051 51]||口||入||方||会||社||待||思||後||午||前||
+||~ [#061 61]||古||新||雨||父||母||外||名||安||高||私||
+||~ [#071 71]||困||帰||晩||朝||駅||友||手||紙||右||左||
+||~ [#081 81]||半||言||東||京||校||書||食||飲||中||上||
+||~ [#091 91]||下||語||少||英||国||話||電||車||読||聞||
+
+//from [https://www.amazon.com/Japanese-Written-Language-2-Textbook/dp/0300109547 Japanese: the Written Language: Vol. 2]//
+
+[[# 001]]
++++ 1. 一
+
+||一||itî||one||
+||一つ||hitôtu||one||
+||一日||ití nitì||one day||
+||一日||tuítatì||first of the month||
+||一分||îppun||one minute; first minute||
+||一時||itîzi||one o'clock||
+||一時間||itízìkan||one hour||
+
++++ 2. 二
+
+||二||nî||two||
+||二つ||hutátù||two||
+||二日||hutuka||2 days; the second (day of the month)||
+||二分||nîhun||2 minutes; the second minute||
+||二時||nîzi||2 o'clock||
+||二時間||nizîkan||2 hours||
+
++++ 3. 三
+
+||三||san||three||
+||三つ||mittù||three||
+||三日||mikka||3 days; the third (day of the the month)||
+||三分||sânpun||3 minutes; the third minute||
+||三時||sânzi||3 o'clock||
+||三時間||sańzìkan||3 hours||
+
++++ 4. 四
+
+||四||yôn||four||
+||四||sî||four||
+||四つ||yottù||four||
+||四日||yokka||4 days; the fourth (day of the month)||
+||四分||yônpun||4 minutes; the fourth minute||
+||四時||yôzi||4 o'clock||
+||四時間||yozîkan||4 hours||
+
++++ 5. 五
+
+||五||gô||five||
+||五つ||itûtu||five||
+||五日||ituka||5 days; the fifth (day of the month)||
+||五分||gôhun||5 minutes; the fifth minute||
+||五時||gôzi||5 o'clock||
+||五時間||gozîkan||5 hours||
+
++++ 6. 六
+
+||六||rokû||six||
+||六つ||muttù||six||
+||六日||muika||6 days; the sixth (day of the month)||
+||六分||rôppun||6 minutes; the sixth minute||
+||六時||rokûzi||6 o'clock||
+||六時間||rokúzìkan||6 hours||
+
++++ 7. 七
+
+||七||nâna||seven||
+||七||sitî||seven||
+||七つ||nanâtu||seven||
+||七日||nanoka||7 days; the seventh (day of the month)||
+||七分||nanâhun||7 minutes; the seventh minute||
+||七分||sitîhun||7 minutes; the seventh minute||
+||七時||nanâzi||7 o'clock||
+||七時||sitîzi||7 o'clock||
+||七時間||nanázìkan||7 hours||
+||七時間||sitízìkan||7 hours||
+
++++ 8. 八
+
+||八||hatî||eight||
+||八つ||yattù||eight||
+||八日||youka||8 days; the eighth (day of the month)||
+||八分||hâppun||8 minutes; the eighth minute||
+||八時||hatîzi||8 o'clock||
+||八時間||hatízìkan||8 hours||
+
++++ 9. 九
+
+||九||kyûu||nine||
+||九つ||kokônotu||nine||
+||九日||kokónokà||9 days; the ninth (day of the month)||
+||九分||kyûuhun||9 minutes; the ninth minute||
+||九時||kûzi||9 o'clock||
+||九時間||kuzîkan||9 hours||
+
++++ 10. 十
+
+||十||zyûu||ten||
+||十||tôo||ten||
+||十日||tooka||10 days; the tenth (day of the month)||
+||十分||zyûppun||10 minutes; the tenth minute||
+||十時||zyûuzi||10 o'clock||
+||十時間||zyuúzìkan||10 hours||
+
+[[# 011]]
++++ 11. 分
+
+||自分||zibun||onself||
+||自分で||zibun de||by oneself, on one's own||
+||自分の||zibun no||one's own||
+||自分自身||zibúnzìsin||oneself (emphatic)||
+||分かる||wakâru, wakâtta||understand (direct object marked by が); _
+come to know, find out, realize, know _
+(usually written わかる)||
+||分かりにくい||wakárinikùi||hard to understand||
+||部分||bûbun||part, portion||
+||分||hûn, bûn||part, portion; counter for minutes||
+||分野||bûnya||field (of endeavor)||
+||気分||kîbun||feeling, mood, frame of mind||
+||半分||hânbun||half (noun)||
+||半分||hanbun||half (adverb)||
+||多分||tabun||perhaps; probably||
+||分ける||wakêru, wâketa||divide (something into parts); share||
+||分かれる||wakárèru, wakâreta||become divided, branch||
+||成分||sêibun||ingredient; component; composition||
+||大分||ooita||Oita (prefecture)||
+||身分||mîbun||status, social standing||
+||分子||bûnsi||numerator; molecule; member, element||
+
+日本語がわかりますか。
+Do you understand Japanese?
+
+浜田さんはこの文の意味がわかるでしょう。（意味：いみ）
+Ms. Hamada probably understands the meaning of this sentence.
+
+あの人の言ってることがわかりますか。
+Do you understand what that person is saying?
+
+どうすればいいかわかりません。
+I don't know what I should do.
+
+この本は分かりにくいよ。
+This book is hard to understand!
+
+この説明は分かり易い。（説明：せつめい、易：や）
+This book is easy to understand.
+
+３課の最初の部分を読んでください。（課：か、最初：さいしょ）
+Please read the first part of Lesson 3.
+
+救助隊は三日分の食料を持っていました。（救助隊：きゅうじょたい、食料：しょくりょう）
+The rescue party had a three-day food supply.
+
+兄はカレーを３人分食べたよ。
+My older brother ate enough curry for three people!
+
+由美さんは１２時４０分に家を出ます。
+Yumi leaves home at 12:40.
+
+学校は駅から歩いて１５分です。
+The school is fifteen minutes from the station.
+
+あの学者は数学に新しい分野を開いた。（学者：がくしゃ、開：ひら）
+That scholar opened a new field in mathematics.
+
+たぶんあしたは晴れるでしょう。（晴：は）
+It will probably clear up tomorrow.
+
+北川さんはたぶんくると思います。
+I think perhaps Ms. Kitagawa will come.
+
+母はそのケーキを八つに分けました。
+My mother divided the cake into eight pieces.
+
+美佐子はチョコレートを順子と分けた。
+Misako shared the chocolate with Junko.
+
+その本は３分に分かれています。
+That book is divided into three parts.
+
+クラスの意見はこの点で分かれています。（意見：いけん）
+Class opinion is divided on this point.
+
+アイスくリームの成分
+the ingredients of ice cream
+
+この石の成分は何か。何か。
+What is this rock composed of?
+
+いいな！自分の部屋があって素晴らしいな！（素晴：すば）
+Good! It's wonderful to have my own room!
+
++++ 12. 本
+
+||日本||nîhon, nippòn||Japan||
+||日本海||nihônkai||Sea of Japan||
+||日本列島||nihónrètou||The Japanese Islands, the Japanese Archipelago||
+||本||hôn||book||
+||本当||hontou||true, real||
+||本来||hônrai||originally; by nature||
+||本部||hônbu||main office, headquarters; administation building||
+||山本||yamamoto||Yamamoto (surname)||
+||本物の||honmono no||real, genuine||
+||本気||honki||seriousness, earnestness||
+||本気の||honki no||serious, earnest||
+||本気で||honki de||seriously, earnestly||
+||本気にする||honki ni suru||take seriously||
+||本音||honne||true feelings, real motivation||
+
+あの人は日本では有名な歌手です。（有名：ゆうめい）
+That person is a famous singer in Japan.
+
+スミスさんは日本の文化に興味があります。（文化：ぶんか、興味：きょうみ）
+Mr. Smith is interested in Japanese culture.
+
+兄は飛行機のほんを買いたがっています。（飛行機：ひこうき）
+My older brother wants to buy a book about airplanes.
+
+本の１８ページを開いてください。（開：ひら）
+Please open the book to page 18.
+
+この図書館は本が何冊借りられますか。（図書館：としょかん、冊：さつ、借：か）
+How many books can one borrow from this library?
+
+これは本来は中国の植物です。（植物：しょくぶつ）
+This is originally a plant from China.
+
+これは本物のダイヤです。
+This is a real diamond.
+
+本気ですか。
+Are you serious?
+
+まさか本気じゃないでしょう？
+You can't possibly be serious, right?
+
+そんなに冗談を本気にしてはいけないよ。（冗談：じょうだん）
+You mustn't take such jokes seriously!
+
++++ 13. 時
+
+||時||tokî||(amount of) time, time span; time, occasion, time when||
+||時々||tokîdoki||sometimes, now and then||
+||一時||itîzi||one o'clock||
+||一時間||itízìkan||one hour||
+||時代||zidai||age, era, period; antiquity; the times||
+||当時||tôuzi||the time in question, that time, then, those days||
+||同時||douzi||simultaneous, concurrent||
+||日時||nîtizi||the time and date, date, time||
+||時計||tokei||clock, watch||
+
+ゆうべは楽しい時を過ごしました。（過：す）
+I had a pleasant time last night.
+
+時は金です。
+Time is money.
+
+そのとき私は勉強中でした。（勉強：ベンきょう）
+At that time I was studying.
+
+健さんは５歳のときに神戸に来ました。（健：けん、歳：さい、神戸：こうべ）
+Ken came to Kobe when he was five years old.
+
+気分が悪いときは、病院に行きなさい。（気分：きぶん、悪：わる、病院：びょういん）
+When you feel sick, go to the hospital.
+
+あした出かけるときに電話してください。（出：で）
+Please telephone me when you go out tomorrow.
+
+時代が変わりました。（変：か）
+Times have changed.
+
+その二人同時に出発しました。（出発：しゅっぱつ）
+Those two started out simultaneously.
+
+日時が決まったら、知らせてください。（決：き、知：し）
+Please notify me as soon as the time and date are set.
+
+時計が三時を打ちました。（打：う）
+The clock struck three.
+
+その時計では今何時ですか。
+What time is it now by that clock?
+
+この時計は合っていますか。（合：あ）
+Is this clock correct?
+
+私の時計は２分進んでいます。（進：すす）
+My watch is 2 minutes fast.
+
+この時計は１日に３秒遅れます。（秒：びょう、遅：おく）
+This clock loses three seconds a day.
+
++++ 14. 何
+
+||何日||nân niti||what date; how many days||
+||何分||nânpun||how many minutes; what minute||
+||何時||nânzi||what time||
+||何時間||nańzìkan||how many hours||
+
++++ 15. 百
++++ 16. 千
++++ 17. 万
++++ 18. 円
++++ 19. 大
++++ 20. 小
+
+[[# 021]]
++++ 21. 行
++++ 22. 日
++++ 23. 月
++++ 24. 年
++++ 25. 間
++++ 26. 今
++++ 27. 人
++++ 28. 子
++++ 29. 女
++++ 30. 男
+
+[[# 031]]
++++ 31. 作
++++ 32. 曜
++++ 33. 土
++++ 34. 火
++++ 35. 水
++++ 36. 木
++++ 37. 金
+
+機械の友情はお金で買えるんだな。（機械：きかい、友情：ゆうじょう、買：か）
+You can use money to buy friendship with machines, huh?
+
++++ 38. 来
++++ 39. 山
++++ 40. 田
+
+||田||tâ||rice field, rice paddy||
+||田んぼ||tanbo||rice field, rice paddy||
+||成田||nârita||Narita (airport in Tokyo)||
+||羽田||haneda||Haneda (airport in Tokyo)||
+||田中||tanaka||Tanaka (surname)||
+||山田||yamada||Yamada (surname)||
+||池田||ikeda||Ikeda (surname)||
+||内田||utida||Uchida (surname)||
+||太田||oota||Ota (surname)||
+||前田||maeda||Maeda (surname)||
+||上田||ueda||Ueda (surname)||
+||石田||isida||Ishida (surname)||
+||田村||tâmura||Tamura (surname)||
+||原田||hârada||Harada (surname)||
+||高田||takada||Takada (surname)||
+||森田||môrita||Morita (surname)||
+||武田||takeda||Takeda (surname)||
+
+
+[[# 041]]
++++ 41. 使
+
+||使う||tukau, tukatte||use||
+||使用||siyou||use (n.)||
+||使用する||siyou suru||use||
+||使用中の||siyoutyuu no||in-use||
+||使用法||siyouhou||way of using||
+||使用者||siyôusya||user||
+||使い||tukai||errand for another person; _
+person who does such errand||
+||天使||tênsi||angel||
+||大使||tâisi||ambassador||
+||大使館||taísìkan||embassy||
+
+使いに行ってくれる？
+Will you go on an errand for me?
+
+この傘を使ってもいいですか。（傘：かさ）
+May I use this umbrella?
+
+この箱は何に使うのですか。（箱：はこ）
+What are you going to use this box for? 
+
+ワープロを使うのは難しいですか。（難：むずか）
+Is it difficult to use a word processor?
+
+この計算機を使用してもいいですか。（計算機：けいさんき）
+May I use this calculator?
+
+私に天使が舞い降りた。（舞：ま、降：お）
+An angel flew down to me.
+
++++ 42. 出
+
+||出る||dêru, dêta||go out; come out; leave; attend; graduate from||
+||出す||dâsu, dâsita||put out; take out; hand in, submit; serve||
+||出来る||dekîru, dêkita||be able (//usually written in kana//)||
+||思い出す||omóidàsu||recall, recollect, remember||
+||出会う||deâu, deâtta||happen to meet, come across, run into||
+||出身||syussin||origin, being born; being a graduate||
+||出発||syuppatu||departure, starting out||
+||出発する||syuppatu suru||depart, leave, start out||
+||でき事||dekîkoto||occurrence, event||
+
+学生たちはやっと教室から出ました。
+The students finally came out of the classroom.
+
+ブスが出るところだよ。
+The bus is about to leave!
+
+芽がそろそろ出るでしょう。（芽：め）
+The buds will probably appear soon.
+
+その本は来月に出ます。
+That book will come out next month.
+
+大森さんもこの会に出ます。（会：かい）
+Mr. Omori will also attend this meeting.
+
+サントスさんは弁論大会に出るつもりだ。（弁論：ベンろん、大会：たいかい）
+Ms. Santos is planning to take part in the speech contest.
+
+息子は立教大学を出ました。
+My son graduated from Rikkyo University.
+
+乗客はポケットから切符を出しました。(乗客：じょうきゃく、切符：きっぷ）
+The passenger took the ticket out of her pocket.
+
+窓から顔を出すのは危ないです。（窓：まど、顔：かお、危：あぶ）
+Putting your head out of the window is dangerous.
+
+子供が猿をおりから出してしまいました。（猿：さる）
+A child let the monkey out of the cage.
+
+さあ、答案出しなさい。（答案：とうあん）
+OK, hand in your test papers.
+
+母はお客さんに紅茶とケーキを出した。（客：きゃく、紅茶：こうちゃ）
+My mother served the guest tea and cake.
+
+あの人の名前は思い出したか。
+Do you recall that person's name?
+
+雪が降ると、北海道を思い出します。（降：ふ）
+When it snows, I remember Hokkaido.
+
+市場で偶然洋子さんに出会ってよ。（市場：いちば、偶然：ぐうぜん）
+I happened to run into Yoko at the market!
+
+ご出身はどちらですか。
+Where are you from?
+
+父は京都大学の出身です。
+My father is a graduate of Kyoto University.
+
+エンジンの故障のため出発が１時間延びた。（故障：こしょう、延：の）
+Because of engine trouble, the departure was delayed for an hour.
+
+私たちは日の出前に出発しました。（日：ひ、出前：でまえ）
+We started out before sunrise.
+
+これは日常の出来事です。（日常：にちじょう）
+This is an everyday occurrence.
+
++++ 43. 休
+
+||休み||yasúmì||rest, break, recess; _
+holiday, day off; _
+absence (from school, work)||
+||休む||yasûmu, yasûnde||rest, take a break; _
+be absent from, stay home from; _
+go to bed, sleep||
+||休日||kyuuzitu||holiday, day off||
+||定休日||teíkyùubi||regular day to be closed for business||
+
+授業と授業の間に１０分間の休みがある。（授業：じゅぎょう）
+There is a ten-minute break between classes.
+
+きょうは学校は休みです。
+There's no school today.
+
+洋子さんはきょうは休みです。
+Yoko is absent today.
+
+少しの間休みましょう。
+Let's rest for a while.
+
+少し勉強を休もうよ。（勉強：べんきょう）
+Let's take a break from studying for a little while!
+
+きのうは学校を休んだよ。
+Yesterday I was absent from school!
+
+きょうは早く休みましょう。
+Let's go to be early tonight.
+
+林さんはまだ休んでいます。
+Mr. Hayashi is still sleeping.
+
+きょうは休日ですね。
+Today is a holiday, isn't it?
+
+休日はたいていテニスをします。
+On holidays I usually play tennis.
+
++++ 44. 学
+
+||大学||daigaku||university; college||
+||学校||gakkou||school||
+||学||gaku||learning; an education; knowledge||
+||学生||gakusei||student (esp. a college student)||
+||科学||kâgaku||science||
+||学ぶ||manabu, manande||study, (try to) learn, take lessons in||
+||小学校||syoúgàkkou||elementary school||
+||文学||bûngaku||literature||
+||学者||gakusya||scholar||
+||化学||kâgaku||chemistry||
+||医学||igaku||(the study of) medicine, medical science||
+||入学||nyuugaku||matriculation, admission to a school||
+||入学する||nyuugaku suru||matriculate, be admitted, enter||
+||見学||kengaku||study by observation, field trip||
+||見学する||kengaku suru||study by observing, make a field trip to||
+||中学||tyûugaku||junior high school||
+||学科||gakka||(school) subject||
+||数学||suugaku||mathematics||
+||小学生||syoúgàkusei||elementary school student||
+||中学生||tyuúgàkusei||junior high school student||
+||工学||kougaku||engineering||
+||語学||gôgaku||study of language, linguistics; foreign language study||
+||学年||gakunen||school year, academic year||
+||進学する||singaku suru||advance, go on (to higher-level school)||
+||学園||gakuen||educational institution, school, academy, campus||
+||学力||gakûryoku||scholarly attainments, scholastic ability||
+
+兄は今年大学に入りました。（入：はい）
+My older brother entered college this year.
+
+姉は来年大学に行きます。
+My older sister will go to college next year.
+
+学校へいくところです。
+I'm about to go to school.
+
+うちの次郎は今年この学校に入りました。（入：はい）
+Our Jiro entered this school this year.
+
+京子ちゃんはきのう学校を休んだよ。
+Kyoko was absent from school yesterday.
+
+学校は３時に終わります。（終：お）
+School ends at 3:00.
+
+あしたは学校は休みです。
+Tomorrow the school has a day off.
+
+この大学の学生はほとんど東京出身です。（出身：しゅっしん）
+The students at this university are almost all from Tokyo.
+
+私たちは関先生から英語を学んでいます。
+We are learning English from Mrs. Seki.
+
+大学で心理学を学びたいです。（心理：しんり）
+I want to study psychology at college.
+
+妹は来年中学校に入学します。
+My younger sister will enter junior high school next year.
+
+私たちは郵便局を見学しました。（郵便局：ゆうびんきょく）
+We made a field trip to the post office.
+
+私は中学の１年生です。
+I am a first-year student in junior high school.
+
+欧米では新しい学年が9月に始まります。（欧米：おうべい、始：はじ）
+In Europe and America the new school year begins in September.
+
+工業高校に進学したいです。（工業：こうぎょお、高校：こうこう）
+I want to go on to a technical school.
+
+私の好きな学科は音楽です。（好：す）
+The subject I like is music.
+
++++ 45. 生
+
+||先生||seńsèi||teacher; sir, ma'am, respected person (used to address)||
+||生活||seikatu||life, existence; livelihood||
+||生きる||ikîru, îkita||live, stay alive||
+||生きている||ikite iru||be alive||
+||学生||gakusei||student (esp. a college student)||
+||人生||zînsei||(a person's) life, human existence||
+||生の||nâma no||raw; live, not recorded||
+||生ビール||namábìiru||draft beer||
+||生まれる||umareru, umareta||be born||
+||生まれ||umare||birth||
+||生まれて初めて||umarete hazimete||for the first time in one's life||
+||発生||hassei||occurrence, outbreak; coming into existence||
+||発生する||hassei suru||occur, break out; come into existence||
+||生じる||syouziru, syouzita||give rise to, bring about; _
+arise, come about, occur||
+||生かす||ikâsu, ikâsita||make good use of, make the most of||
+||高校生||koúkòusei||high school student||
+||小学生||syoúgàkusei||elementary school student||
+||中学生||tyuúgàkusei||junior high school student||
+||大学生||daígàkusei||college student||
+||一生||issyou||throughout one's lifetime, all one's life; _
+lifetime, one's whole life||
+||生む||umu, unda||produce, give rise to||
+||生える||haêru, hâeta||sprout, appear||
+||野生||yasei||wild, untamed (animal); wild, uncultivated (plant)||
+||生理||sêiri||physiology; menstruation||
+||生き生き||ikíìki||animatedly, in a live manner; vividly||
+
+両親は二人とも高校の先生です。（両親：りょうしん）
+My parents are both high school teachers.
+
+あの方は日本語の先生です。
+That person is a teacher of Japanese.
+
+林先生は音楽を教えていらっしゃいます。
+Ms. Hayashi teaches music.
+
+お金を生かして使うようにしなさい。
+Try to make good use of your money.
+
+私たちは時間を生かさなければならない。
+We have to make the most of our time.
+
+人間は水がないと生きられません。（人間：ねんげん）
+A human being cannot live if there is no water.
+
+祖母は80歳まで生きました。（祖母：そぼ、歳：さい）
+My grandmother lived to eighty.
+
+この伊勢海老はまでだ生きているよ。（伊勢海老：いせえび）
+This lobster is still alive!
+
+夢のない人生は惨めです。（夢：ゆめ、惨：みじ）
+A life without dreams is pitiful.
+
+人生は一度しかないですよ。（度：ど）
+One has only one life!
+
+野菜を生で食べるのは健康にいいですよ。
+Eating vegetables raw is good for one's health!
+
+川田さんは京都で生まれました。
+Ms. Kawada was born in Kyoto.
+
+どこで生まれたんですか。
+Where were you born?
+
+生まれてからずっとここに住んでいます。（住：す）
+I have been living here ever since I was born.
+
+ここで私の生まれた町です。
+This is the town where I was born.
+
+生まれて初めて飛行機に乗りました。（飛行機：ひこうき、乗：の）
+I rode on an airplane for the first time in my life.
+
+生まれはどこですか。
+Where were you born?
+
+祖母は一生青森で暮らしました。（暮：く）
+My grandmother lived in Aomori all her life.
+
+父は幸福な一生を送りました。（幸福：こうふく）
+My father lived a happy life.
+
+夏目漱石は日本の生んだ偉大な作家です。（偉大：いだい、作家：さっか）
+Soseki Natsume is a great writer that Japan produced.
+
+雑草が花の間に生えています。（雑草：ざっそう）
+Weeds are sprouting among the flowers.
+
+山道で野生の猿を見ました。（山道：やまみ地、猿：さる）
+I saw a wild monkey on the mountain path.
+
+明夫さんはその試合の様子を生き生きと説明しました。（試合：しあい、様子：ようす、説明：せつめい）
+Akio vividly described the game.
+
+京子ちゃんは生き生きとした女の子です。
+Kyoko is a lively girl.
+
+ひとりぼっちの〇〇生活。（〇〇：まるまる）
+Bocchi Hitori's @<_____>@ life.
+
++++ 46. 先
+
+||先生||seńsèi||teacher; sir, ma'am, respected person (used to address)||
+||先||saki||end, point, tip; _
+the future, later in time; _
+the area ahead, the area beyond; _
+beforehand, first; _
+ahead, earlier||
+||先ほど||sakihodo||a short while ago||
+||先日||senzitu||the other day||
+||先週||sensyuu||last week||
+||先々週||sensensyuu||the week before last||
+||先頭||sentou||the head, the lead||
+||先頭に立つ||sentou ni tâtu||lead, go first||
+||先行||senkou||preceding; going first; leading; going ahead; taking priority​||
+||先月||sêngetu||last month||
+
+ピッチャーは人さし指の先をけがした。（指：ゆび）
+The pitcher injured the tip of his forefinger.
+
+先の事は心配しないで。（心配：しんぱい）
+Don't worry about the future. (Don't worry about future things.)
+
+この学校も５年先にそうなるでしょう。
+This school will probably become like that too five years from now.
+
+郵便局はスーパーの先にあります。（郵便局：ゆうびんきょく）
+The post office is beyond the supermarket.
+
+小学校は５０メートル先です。
+The elementary school is 50 meters ahead.
+
+どうぞお先に。
+Please go ahead of me. (Please, ahead.)
+
+お先に失礼します。（失礼：しつれい）
+Excuse me for leaving ahead of you. (I will be rude earlier.)
+
+先に宿題をやらなければならないよ。（宿題：しゅくだい）
+First I have to do my homework!
+
+先日辻村さんのお宅を訪ねました。（お宅：おたく、訪：たず）
+I visited Ms. Tsujimura's house the other day.
+
+先週雪が少し降りました。（降：ふ）
+It snowed a little last week.
+
+先週の木曜日に図書館に行きました。（図書館：としょかん）
+I went to the library last Thursday.
+
+モロッコの選手がレースの先頭を切った。（選手：せんしゅ、切：き）
+The Moroccan athlete took the lead in the race.
+
+主将が選手たちの先頭に立って行進した。（主将：しゅしょう、選手：せんしゅ、行進：こうしん）
+Th captain is marching at the head of the players.
+
+彼の考えは時代に先行している。(時代：時だい）
+His ideas are ahead of his time. (He is ahead of the times in his ideas.)
+
+先月は雨が多かったです。
+Last month there was a lot of rain.
+
++++ 47. 知
+
+||知る||siru, sitta||come to know, find out||
+||知れる||sireru, sireta||become known, come to light, be discovered||
+||知らせ||sirase||notification, news||
+||知らせる||siraseru, siraseta||tell, report, let know||
+||知事||tîzi||governor (of state or prefecture)||
+||通知||tuuti||notification, report||
+||通知する||tuuti suru||notify, inform, let know||
+||知り合い||siriai||acquaintance||
+||知人||tizin||acquaintance||
+||高知||kouti||Kochi (prefecture in Shikoku)||
+||知性||tîsei||intellect||
+
+テレビでそれを知りました。
+I found that out from TV.
+
+明子さんは歌をたくさん知っていますよ。
+Akiko knows a lot of songs!
+
+ずっと前から坂田さん知っています。
+I've known Ms. Sakata since long ago.
+
+純がどこに住んでいるか知っていますか。（住：す）
+Do you know where Jun lives?
+
+その知らせを聞いて驚きました。（驚：おどろ）
+I heard that news and was surprised.
+
+新しい住所を知らせてください。（住所：じゅうしょ）
+Please let me know your new address.
+
+宮下さんは私の知り合いです。
+Ms. Miyashita is an acquaintance of mine.
+
++++ 48. 見
+
+||見る||mîru, mîta||look at, watch; _
+see||
+||見える||miêru, mîeta||be able to see, be visible; _
+look, appear; _
+come (honorific polite)||
+||目が見えない||mê ga miênai||be unable to see, be blind||
+||見せる||misêru, mîseta||show, allow to see||
+||意見||îken||opinion; advice||
+
+さあ、このスライドを見ましょう。
+All right now, let's look at these slides.
+
+私たちはテレビでテニスの試合を見ます。（試合：しあい）
+We watch a tennis match on TV.
+
+そんなに大きな湖は見たことがないよ。（湖：みずうみ）
+I've never seen such a big lake!
+
+犯人が橋を渡るのをみました。（犯人：はんにん、橋：はし、渡：わた）
+I saw the culprit cross the bridge.
+
+大坪さんがプールで泳いでいるのをみた。（泳：およ）
+I saw Mr. Otsubo swimming in the pool.
+
+小さな島が見えてきました。（島：しま）
+A small island became visible.
+
+向こうに白い建物が見えるでしょう。（向：む、建物：たてもの）
+You can probably see a white building over there.
+
+私たちの学校から海が見えます。
+The ocean is visible from our school.
+
+お兄さんは年より若く見えます。（年：とし、若：わか）
+Your older brother looks younger than his age.
+
+小田さんは画家に見えるね。
+Mr. Oda looks like a painter, doesn't he?
+
+お客さんは６時に見えるそうです。（客：きゃく）
+I understand the guests will come at 6:00.
+
+車掌に切符を見せました。（車掌：しゃしょう、切符：きっぷ）
+I showed my ticket to the conductor.
+
+切手アルバムを見せてくれませんか。（切手：きって）
+Won't you show me your stamp album?
+
+これは嫌いです。ほかのを見せてください。（嫌：きら）
+I don't like this. Please show me another one.
+
+松本さんの意見はどうですか。
+What is Ms. Matsumoto's opinion?
+
+その問題について意見を述べました。（問題：もんだい、述：の）
+I expressed my opinion on that subject.
+
++++ 49. 週
++++ 50. 毎
+
+[[# 051]]
++++ 51. 口
++++ 52. 入
+
+じゃ何でここに、ネルフに入ったんですか。
+Why did you come here then? Why did you join NERV?
+
++++ 53. 方
++++ 54. 会
++++ 55. 社
++++ 56. 待
++++ 57. 思
+
+||思い出||omoide||reminiscence, memory||
+||思いつく||omoituku||think of, come up with (subject is person); occur to one (subject is thought)||
+
+母はよく学生時代の思い出を話します。（時代：じだい、話：はな）
+My mother often talks about memories of her school days.
+
++++ 58. 後
++++ 59. 午
++++ 60. 前
+
+[[# 061]]
++++ 61. 古
++++ 62. 新
++++ 63. 雨
+
+||雨||アメ||rain||
+||雨天||ウテン||rainy weather||
+||大雨||オーアメ||heavy rain||
+
+雨が昼ごろにやみました。（昼：ひる）
+The rain stopped around noon.
+
+雨の日は嫌いです。（嫌：きらい）
+I dislike rainy days.
+
+あしたは雨が降るでしょう。（降：ふ）
+Tomorrow it will probably rain.
+
+日本では６月に雨が多く降ります。（降：ふ）
+In Japan it rains a lot in June.
+
++++ 64. 父
++++ 65. 母
++++ 66. 外
++++ 67. 名
++++ 68. 安
++++ 69. 高
++++ 70. 私
+
+[[# 071]]
++++ 71. 困
++++ 72. 帰
++++ 73. 晩
++++ 74. 朝
+
+朝から賑やかだな？（賑：にぎ）
+Busy this morning, I see.
+
++++ 75. 駅
++++ 76. 友
++++ 77. 手
++++ 78. 紙
++++ 79. 右
++++ 80. 左
+
+[[# 081]]
++++ 81. 半
++++ 82. 言
++++ 83. 東
+
+||東京||toukyou||Tokyo||
+||東||higasi||east||
+||東大||toudai||abbrev. of 東京大学||
+||東北||touhoku||northest; Tohoku (northernmost 6 prefectures of Honshu)||
+||中東||tyuutou||Middle East||
+||東京大学||toukyou daigaku||Tokyo University||
+||東南アジア||toúnan àzia||southeast Asia|| 
+||東アジア||higási àzia||east Asia||
+||東西||tôuzai||east and west||
+||東海||toukai||Tokai region, 4 prefecture SE of Tokyo on Pacific coast||
+
++++ 84. 京
++++ 85. 校
++++ 86. 書
++++ 87. 食
++++ 88. 飲
++++ 89. 中
++++ 90. 上
+
+[[# 091]]
++++ 91. 下
++++ 92. 語
++++ 93. 少
++++ 94. 英
++++ 95. 国
++++ 96. 話
++++ 97. 電
++++ 98. 車
++++ 99. 読
+
+||読む||ヨム||read||
+||読者||ドクシャ||reader||
+||読める||ヨメル||can read, is legible||
+||読書||ドクショ||reading (a book)||
+||読み方||ヨミカタ||pronunciation (of Chinese character)||
+
+時々ベッドベッドで本を読みます。
+I sometimes read a book in bed.
+
+兄は漫画の本を読んでいます。（漫画：まんが）
+My older brother is reading a comic book.
+
+声を出して読んでください。（声：こえ、出：だ）
+Please read aloud.
+
+妹は子供たちに本を読んでいます。（子供：こども）
+My younger sister is reading a book to the children.
+
+イギリスの小説を読んだことがありますか。（小説：しょうせつ）
+Have you ever read an English novel?
+
+娘は読書が好きです。（娘：むすめ）
+My daughter likes reading books.
+
++++ 100. 聞
+
+||聞く||キク||hear; listen; ask, inquire||
+||新聞||シンブン||newspaper||
+||聞こえる||キコエル||can hear||
+||朝日新聞||アサヒシンブン||"morning sun newspaper", a national newspaper||
+||毎日新聞||マイニチシンブン||"daily news", a national newspaper||
+||読売新聞||ヨミウリシンブン||Yomiuri Shinbun, a national newspaper||
+
+アリストテレスについて聞いたことあるのか。
+Have you ever heard about Aristotle?
+
+その説明を聞いてください。（説明：セツメイ）
+Please listen to that explanation.
+
+私たちは日曜日に音楽を聞きます。
+We listen to music on Sundays.
+
+駅への道をその人に聞きました。（道：ミチ）
+I asked that person the way to the station.
+
+新聞をもう読みましたか。
+Have you already read the newspaper?
+
+あの、ちょっと、お姉さんに聞きたいんだけど
+Um, there's something I want to ask you, Sis...
+
+[[# 101_200]]
++ 101–200
+
+||~ ||~ 1||~ 2||~ 3||~ 4||~ 5||~ 6||~ 7||~ 8||~ 9||~ 0||
+||~ [#101 101]||目||耳||足||白||赤||青||川||花||石||貝||
+||~ [#111 111]||林||森||立||天||気||犬||虫||草||正||音||
+||~ [#121 121]||早||王||村||町||竹||空||糸||字||夕||玉||
+||~ [#131 131]||文||力||引||羽||雲||園||遠||科||夏||家||
+||~ [#141 141]||歌||画||回||海||絵||角||楽||活||丸||岩||
+||~ [#151 151]||顔||汽||記||弓||牛||魚||強||教||近||兄||
+||~ [#161 161]||形||計||元||原||戸||工||公||広||交||光||
+||~ [#171 171]||考||黄||合||谷||黒||才||細||算||止||市||
+||~ [#181 181]||矢||姉||寺||自||室||弱||首||秋||春||場||
+||~ [#191 191]||色||心||親||図||数||西||声||星||晴||切||
+
+//101–132 are Joyo-1; 133–200 are Joyo-2//
+
+[[# 101]]
++++ 101. 目
+
+||目||mê||eye||
+||目立つ||medâtu||to be conspicuous, to stand out||
+||科目||kamoku||(school) subject||
+||目つき||mêtuki||look (on one's face)||
+||五十人目||gozyûunin me||the fiftieth person||
+||六日目||muika me||the sixth day||
+||人目||hitome||attention, public notice||
+
+目を閉じなさい。（閉：と）
+Close your eyes.
+
+彼女は黒い目をしている。（彼女：かのじょ　黒い：くろい）
+She has dark eyes.
+
+彼女は目を伏せた。（伏：ふ）
+She dropped her eyes.
+
+看護婦さんは優しい目つきをしています。（看護婦：かんごふ　優：やさ）
+The nurse has a gentle look.
+
+ラマダンの10日目。
+The tenth day of Ramadan.
+
+人目をひくポスター。
+Eye-catching posters.
+
++++ 102. 耳
+
+||耳||mimî||ear||
+||外耳||gâizi||outer ear||
+||耳目||zîmoku||eyes and ears; one's attention||
+||耳たぶ||mimítàbu||earlobe||
+
+この犬は耳が大きいね。
+This dog's ears are big, aren't they?
+
+耳だけが出ている！
+Only your ears are sticking out!
+
+耳にしてことがありますか。
+Have you ever heard of it?
+
+三川さんは耳たぶにピアスをした。
+Mikawa pierced his/her ears.
+
++++ 103. 足
+
+||足||asî||foot; leg (including foot)||
+||土足で||dosoku de||with one's shoes on||
+||足りる||tariru, tarita||suffice||
+
+足がしびれています。
+My foot is asleep.
+
+父は足が長いです。（長：なが）
+My father's legs are long.
+
+校舎に土足で入ってはいけないよ。（校舎：こうしゃ、入って：はいって）
+You mustn't enter the school building with your shoes on!
+
++++ 104. 白
+
+||白い||sirôi, sîrokatta||white||
+||白人||hakuzin||white person||
+||明白||meihaku||obvious||
+
+会長は白い服を着ています。（会長：かいちょう、服：ふく、着て：きて）
+The chairperson is wearing white clothes.
+
++++ 105. 赤
+
+||赤い||akai, akâkatta||red (adj.)||
+||赤道||sekidou||equator||
+||赤||âka||red (n.)||
+||赤字||akazi||deficit||
+||赤ちゃん||âkatyan||baby||
+||赤外線||sekigaisen||infrared rays||
+||赤らめる||akáramàru||blush||
+
+信号が赤になりました。（信号：しんごう）
+The traffic light turned red.
+
++++ 106. 青
+
+||青い||aôi, âokatta||blue (adj. also includes green)||
+||青空||aózòra||blue sky||
+||青年||seinen||youth||
+||青||âo||blue (n. also includes green)||
+||青ざめる||aózamèru||become pale||
+||青木||aoki||Aoki (surname)||
+
+信号が青になりました。
+The traffic light turned green.
+
+その人形は青い目をしています。（人形：にんぎょう）
+The doll has blue eyes.
+
++++ 107. 川
+
+||川||kawâ||river, stream||
+||石川||isikawa||Ishikawa (surname)||
+||小川||ogawa||Ogawa (surname)||
+
+川に沿って歩くのは気持ちがいいです。（沿：そ、歩：ある、気持：きも）
+Walking along the river is pleasant.
+
++++ 108. 花
+
+||花||hanâ||flower, blossom||
+||花火||hânabi||fireworks||
+
+春には多くの花が咲きます。（春：はる、多：おお、咲：さ）
+Many flowers bloom in spring.
+
+花火を上げる（上：あ）
+to set off fireworks
+
++++ 109. 石
+
+||石||isî||stone, rock||
+||石川||isikawa||Ishikawa (surname)||
+
+この門は石でできています。（門：もん）
+This gate is made of stone.
+
+石を投げないでね。（投：な）
+Don't throw stones, OK?
+
++++ 110. 貝
+
+||貝||kâi||shellfish||
+
+貝のように口を閉ざす（閉：と）
+shut up like a clam
+
+[[# 111]]
++++ 111. 林
+
+||林||hayasi||a woods||
+||森林||sinrin||forest, woodland||
+||林道||rindou||path through the forest, trail in the woods||
+||小林||kobayasi||Kobayashi (surname)||
+
++++ 112. 森
+
+||森||mori||woods, forest||
+||青森||aômori||Aomori (prefecture)||
+||森田||morîta||Morita (surname)||
+
+森の中で道に迷いました。（道：みち　迷：まよ）
+I lost my way in the forest.
+
++++ 113. 立
+
+||立つ||tâtu, tâtta||stand; stand up; leave, depart from||
+||立てる||tatêru, tâteta||stand (something) up; erect (something)||
+||国立||kokuritu||national, nationally administered||
+||目立つ||medâtu||stand out||
+||立法||rippou||legislation||
+||私立||sîritu||private||
+||公立||kouritu||public||
+||中立||tyuuritu||neutral||
+
+彼の奥さんが門の所に立っています。（彼：かれ、奥：おく、所：ところ）
+His wife is standing at the gate.
+
+窓のそばに立っている女性が中尾さんだ。（窓：まど、女性：じょせい）
+The woman standing by the window is Ms. Nakao.
+
+丘の上に小さな家が立っています。（丘：おか）
+A little house stands on the hill.
+
+その本を本棚に立てなさい。（本棚：ほんだな）
+Stand those books on the bookshelf.
+
+コーチは高いさおを地面に立てました。（地面：じめん）
+The coach stood a tall pole in the ground.
+
+このポスターを目立つ場所にはりなさい。（場所：ばしょ）
+Put up this poster in a conspicuous place.
+
+きょうのバレーボールの試合では浜田選手の活躍が目立ちました。（試合：しあい、浜田：はまだ、選手：せんしゅ、活躍：かつやく）
+Hamada stood out in today's volleyball game.
+
+娘は私立の女子中学校に通っています。（娘：むすめ、女子：じょし、通：かよ）
+My daughter is going to a private junior high school for girls.
+
++++ 114. 天
+
+||天||tên||sky, heavens||
+||天気||tênki||weather||
+||天皇||ténnòu||emperor (of Japan)||
+||天が下||amégàsita||world||
+
+負けて選手は天を仰ぎ、ため息をついた。（負：ま、選手：せんしゅ、仰：あお、息：いき）
+The defeated athlete looked up at the sky and sighed.
+
+きょうの天気はどうですか。
+How is today's weather?
+
+天気はよくなりそうです。
+It looks as if the weather will improve.
+
+山の天気は変わりやすいです。(変：か）
+Mountain weather is easily changeable.
+
+天気予報ではあしたは雪だそうです。（予報：よほう、雪：ゆき）
+According to the weather forecast, it will snow tomorrow.
+
+天気予報が当たりました。（当：あ）
+The weather forecast proved correct.
+
++++ 115. 気
+
+||人気||ninki||popularity||
+||人気者||ninkimono||popular person||
+||気分||kîbun||feeling, mood, frame of mind||
+
+山田先生は生徒に人気があります。（生徒：せいと）
+Mr. Yamada is popular with his students.
+
+今は歌を歌う気分じゃないよ。（歌：うた）
+I am not in the mood for singing songs now!
+
+勉強する気分いなれません。（勉強：べんきょう）
+I can't get in the mood for studying.
+
++++ 116. 犬
+
+||犬||inû||dog||
+||番犬||banken||watchdog||
+
+その犬はわんわんほえました。
+That dog barked bow-wow.
+
+ゲーム中で犬飼っているんけど。（飼：か）
+I'm raising a dog in-game.
+
++++ 117. 虫
+
+||虫||musi||bug, insect||
+
+徹さんは虫を集めているよ。（集：あつ）
+Toru collects bugs.
+
+やぶで虫が鳴いています。（鳴：な）
+Bugs are chirping in the thicket.
+
++++ 118. 草
+
+||草||kusâ||grass; weed||
+||草原||sougen||grassland, prairie||
+||草花||kusâbana||flower, flowering plant||
+
+草の上に寝転ぼう。（寝転：ねころ)
+Let's lie down on the grass.
+
++++ 119. 正
+
+||正しい||tadásìi||right, correct||
+||正式||seisiki||formal, official||
+||正当||seitou||just, right, fair||
+||公正||kousei||fairness, impartiality, justice||
+
+小田さんの言うことはいつも正しい。
+What Ms. Oda says is always right.
+
+正しい時間を教えてください。（教：おし）
+Please tell me the correct time.
+
+次郎は私の言葉を正しく理解してくれた。（言葉：ことば、理解：りかい）
+Jiro understood my words correctly.
+
+その単語を正しく発音してくれた。
+Pronounce that word correctly.
+
+由美に正式に結婚を申し込んだよ。（結婚：けっこん、申し込んだ：もうしこんだ）
+I formally proposed marriage to Yumi.
+
+法は何事にも公正でなければなりません。（法：ほう、何事：なにごと）
+The law must be fair in everything.
+
++++ 120. 音
+
+||音楽||ôngaku||music||
+||音||on||sound (something audible)||
+||音楽||ongakuka||musician||
+
+この子は音楽の才能があります。（才能：さいのう）
+This child has musical talent.
+
+大きな音を立てないでください。
+Please don't make a loud sound.
+
+テレビの音を小さくしなさい。
+Turn the TV volume down.
+
+[[# 121]]
++++ 121. 早
+
+||早い||hayâi, hâyakatta||early; fast, quick||
+||早めに||hayame ni||ahead of schedule||
+||早朝||soutyou||early morning||
+
++++ 122. 王
+
+||王||ôu||king||
+||王国||oukoku||kingdom||
+||王子||ôuzi||prince||
+||女王||zyoôu||queen||
+||王女||ôuzyo||princess||
+||国王||kokúòu||king||
+
++++ 123. 村
+
+||村||murâ||village||
+||市町村||sityôuson||municipality||
+||村上||murakami||Murakami (surname)||
+||中村||nakamura||Nakamura (surname)||
+||木村||kimura||Kimura (surname)||
+
++++ 124. 町
+
+||町||matî||town, city; district (subdivision of city 市 or ward 区)||
+||町||tyôu||town||
+
++++ 125. 竹
+
+||竹||take||bamboo||
+||竹林||tikurin||bamboo grove||
+||竹田||takeda||Takeda (surname)||
+
++++ 126. 空
+
+||空||sôra||sky||
+||空間||kuukan||space, room||
+||空気||kûuki||air||
+||空く||aku, aita||to empty (v.i.)||
+||空ける||akeru, ateta||to empty (v.t.)||
+||空中||kuutyuu||sky, air (as a location)||
+||空き||aki||vacancy, opening, space||
+||空手||karate||karate||
+
+空はすぐに晴れるでしょう。
+They sky will probably clear up soon.
+
+空には雲が一つもないね。
+There's not a cloud in the sky, is there?
+
+時間と空間
+time and space
+
+空き家
+vacant house
+
+女心と秋の空　（女心：おんなごころ）
+woman's heart and autumn weather (are both fickle)
+
++++ 127. 糸
+
+||糸||îto||thread||
+||毛糸||keito||woolen yarn||
+
+糸が切れる（切：き）
+a thread breaks
+
++++ 128. 字
+
+||字||zî||letter, character (in a writing system)||
+||文字||môzi||letter, character (in a writing system)||
+||小文字||komozi||lower-case letter||
+||大文字||oomozi||capital letter||
+||数字||suuzi||numeral, figure||
+||ローマ字||roómàzi||romaji, Roman letter||
+||ローマ数字||roómasùuzi||Roman numeral||
+||赤字||akazi||deficit, red ink||
+||黒字||kurozi||surplus||
+||名字||myôozi||family name, surname||
+||活字||katuzi||movable type (for printing press)||
+||字体||zitai||font, typeface||
+||字画||zikaku||stroke count||
+
+大塚さんは字が上手です。
+Ms. Otsuka has nice handwriting. (Ms. Otsuka's characters are skillful.)
+
++++ 129. 夕
+
+||夕べ||yuúbè||evening||
+||夕方||yuugata||late afternoon, early evening||
+||夕食||yuusyoku||evening meal, dinner, supper||
+||七夕||tanabata||Tanabata, Star festival, "evening of the seventh", starts July 7th||
+||夕日||yuuhi||evening sun, setting sun||
+
+兄は夕方６時ごろに外出しました。（外出：がいしゅつ）
+My older brother went out at about 6:00 in the evening.
+
+夕食の前に２時間勉強します。（勉強：べんきょう）
+I study for two hours before supper.
+
+僕たちは音楽の夕べを催しました。（僕：ぼく、催：もよお）
+We held a musical evening.
+
+叔父のうちで楽しい夕べを過ごしました。（叔父：おじ、楽：たの、過：す）
+We spent a pleasant evening at my uncle's home.
+
++++ 130. 玉
+
+||玉||tamâ||spherical object, bead, ball-shaped object||
+||目玉||metámà||eyeball||
+||玉子||tamâgo||egg (also written 卵)||
+||10円玉||zyuúendàma||10 yen coin||
+
+眼鏡の玉（眼鏡：めがね）
+glasses lens
+
+[[# 131]]
++++ 131. 文
+
+||文||bûn||sentence; text, piece of writing||
+||文化||bûnka||culture||
+||文字||môzi||letter, character (in a writing system)||
+||文学||bûngaku||literature||
+||文庫||bunko||book storehouse; pocket-sized book edition||
+||文明||bunmei||civilization||
+||文法||bunpou||grammar||
+
+パテルさんは日本文化に興味があります。
+Ms. Patel is interested in Japanese culture.
+
+この文の意味を説明してください。（意味：いみ、説明：せつめい）
+Please explain the meaning of this sentence.
+
+英語で短い文を書きました。（短：みじか）
+I wrote a short text in English.
+
+文法の誤りが多いですよ。（誤：あやま、多：おお）
+There are a lot of grammatical mistakes!
+
++++ 132. 力
+
+||力||tikárà||power, strength; ability; effort, exertion||
+||入力||nyuuryoku||input||
+||電力||dênryoku||electric power||
+||強力||kyouryoku||strength, power, might||
+||強力な||kyouryoku na||strong, powerful, mighty||
+||体力||tâiryoku||physical strength, stamina||
+||原子力||geńsìryoku||nuclear power||
+||出力||sitûryoku||output||
+
+その選手はとても力の強い人です。（選手：せんしゅ)
+That athlete is a very strong person.
+
+村上さんにはその仕事を一人でやり遂げる力があると思います。（仕事：しごと、遂：と）
+I think Ms. Murakami has the ability to do that work by herself.
+
+浩は力いっぱい自転車のペダルをこいだ。（自転車：じてんすや）
+Hiroshi is pumping the bicycle pedals with all his strength!
+
+この機械は強力なモーターで動く。（機械：きかい）
+This machine runs on a powerful motor.
+
+おばあさんの体力は衰えたね。（衰：おとろ）
+Grandmother's stamina has weakened, hasn't it?
+
++++ 133. 引
+
+||引く||hiku||pull, tug, draw; draw (a line); attract, draw; subtract, deduct; lower (a price)||
+||引用||inyou||quotation, citation||
+||引用する||inyou suru||quote, cite||
+||引き出し||hikidasi||drawer||
+||引き出す||hikídàsu||pull out, draw out; withdraw (money)||
+
+カーテンを引いてください。
+Please draw the curtain.
+
+母は引き出しを開けて、靴下を出した。（開：あ、靴下：くつした）
+My mother opened a drawer and took out some socks.
+
+けき銀行から５０００円引き出しました。（銀行：ぎんこう）
+This morning I withdrew ¥5000 from the bank.
+
++++ 134. 羽
+
+||羽||hane||feather; wing||
+||羽田||haneda kuukou||Haneda Airport (an int'l airport in Tokyo, the other being Narita)||
+
++++ 135. 雲
+
+||雲||kûmo||cloud||
+||出雲||îzumo||Izumo, city and former province on W coast of Honshu||
+
+空には雲が一つもない。
+There isn't a cloud in the sky.
+
+突然雲が出てきました。（突然：とつぜん）
+All of a sudden clouds began to appear.
+
++++ 136. 園
+
+||公園||kouen||park||
+||上野公園||ueno kouen||Ueno Park||
+||学園||gakuen||campus||
+||楽園||rakuen||paradise||
+
++++ 137. 遠
+
+||遠い||tooi, tôkatta||far, distant||
+||遠足||ensoku||one-day outing, (school) field trip||
+||遠回り||toómàwari||making a detour, taking the long way||
+||遠回りする||toómàwari suru||make a detour, take the long way||
+
+小学校はここから遠いですか。（小学校：ショーガッコー）
+Is the elementary school far from here?
+
+洋子ちゃんは私の遠い親せきです。（洋子：ようこ、　親：しん）
+Yoko is my distant relative.
+
+その道は通行止めだったので、遠回りしなければなりませんでした。（道：みち、通行止：つうこうど）
+The road was blocked, so we had to make a detour.
+
++++ 138. 科
+
+||科学||kâgaku||science||
+||科||kâ||family (biological taxonomy); department (of university, hospital); course of study||
+||教科書||kyoókàsyo||textbook||
+||学科||gakka||(school) subject||
+
++++ 139. 夏
+
+||夏||natû||summer||
+
+夏がいちばん好きです。（好：す）
+I like summer best.
+
+夏には水泳を楽しみます。（水泳：すいえい)
+We enjoy swimming in summer.
+
++++ 140. 家
+
+||家||iê||house, home||
+||国家||kôkka||nation, country||
+||作家||sakka||writer, novelist||
+
+伯父は大きな家に住んでいます。（伯父：おじ、住：す）
+My uncle lives in a large house.
+
+私たちは七時に家をでます。
+We leave home at 7:00.
+
+[[# 141]]
++++ 141. 歌
+
+||歌||utâ||song||
+||歌う||utau, utatta||sing||
+||歌手||kâsyu||singer||
+||国歌||kôkka||national anthem||
+
+日本の歌を歌いましょう。
+Let's sing a Japanese song.
+
+恵子ちゃんは歌を歌うことが好きです。
+Keiko likes to sing songs.
+
++++ 142. 画
+
+||計画||keikaku||plan (of action)||
+||計画する||keikaku suru||to plan||
+||計画を立てる||keíkaku o tatèru||make a plan, make plans||
+
+夏休みの計画を立てています。
+I am making plans for the summer vacation.
+
+ピクニックに行く計画を立てました。
+We planned to go on a picnic.
+
++++ 143. 回
+
+||ー回り||-mawari||by way of, via (suffix)||
+||回る||mawaru, mawatta||turn, spin, rotate (v.i.); go from place to place in succession, travel around, tour; _
+spread, circulate; go via, stop off at on the way, make a detour through; _
+turn, go past (time on clock)||
+||今回||kônkai||this time; this coming time, next time||
+||前回||zênkai||last time||
+||次回||zîkai||next time||
+||毎回||maikai||every time||
+||回答||kaitou||answer, solution (to test question)||
+||正しい回答||tadásìi kaitou||right answer||
+||まちがった回答||matígàtta kaitou||wrong answer||
+||回す||mawasu, mawasita||turn, spin, rotate (v.t.); send around, pass around; send on, pass on, forward||
+||回数||kaísùu||frequency, number of times||
+
+新宿回り渋谷に行きました。（新宿：しんじゅく、渋谷：しぶや）
+I went to Shibuya by way of Shinjuku.
+
+月は地球の周りを回っています。（地球：ちきゅう、周：まわ）
+The moon revolves around the earth.
+
+そのこまはよく回っているね。
+That top is spinning well, isn't it?
+
+去年は九州を回りました。（去年：きょねん、九州：きゅうしゅう）
+Last year I traveled around Kyushu.
+
+横田君の遅刻の回数を数えてください。
+Please count the number of times Yokota has been late.
+
+運転手はハンドルを右に回しました。（運転手：うんてんしゅ）
+The driver turned the steering wheel to the right.
+
++++ 144. 海
+
+||海||ûmi||sea, ocean; seaside, beach||
+||海外||kâigai||overseas, abroad, foreign countries||
+||北海道||hoḱkàidou||Hokkaido||
+||上海||syánhai||Shanghai||
+||海上||kaizyou||the sea (surface)||
+||海女||âma||diver (female)||
+
+海が荒れています。（荒：あ）
+The ocean is rough.
+
+その海を船で渡りました。（船：ふね、渡：わた）
+We crossed that sea by boat.
+
+夏は海へ行きます。
+In summer we go to the beach.
+
+田中さんは毎年海外旅行をします。（旅行：りょこう）
+Ms. Tanaka takes a trip overseas every year.
+
++++ 145. 絵
+
+||絵||ê||picture, painting, drawing (not a photograph)||
+||絵画||kâiga||pictures, paintings, drawings||
+||絵本||ehôn||picture book||
+||絵馬||êma||wooden plaque with prayer written on it||
+
+明子さんは絵が上手です。
+Akiko is good at drawing pictures.
+
+これはピカソの絵です。
+This is a painting by Picasso.
+
++++ 146. 角
+
+||角||kâdo||corner||
+||角||kakû||(geometric) angle||
+||全角||zenkaku||full-width||
+
+通りの角に銀行があります。（通：とお、銀行：ぎんこう）
+There is a bank on the street corner.
+
+次の角を左折してください。（左折：させつ）
+Please turn left at the next corner.
+
++++ 147. 楽
+
+||音楽||ôngaku||music||
+||楽しい||tanósìi, tanôsikatta||pleasurable, pleasant, enjoyable, merry||
+||楽しむ||tanósìmu, tanósìnde||enoy, take pleasure in||
+||楽しみ||tanósìi||pleasure, enjoyment||
+||楽しみにする||tanósìmi ni suru||look forward to||
+||楽な||rakû na||easy, light; comfortable||
+
+この子は音楽の才能があります。（才能：さいのう）
+This child has musical talent.
+
+みんな楽しい時を過ごしました。（過：す）
+Everyone had a pleasant time.
+
+遠足は楽しかったですか。（遠足：えんそく）
+Was the excursion fun?
+
+水泳は祖父の楽しみの一つです。（水泳：すいえい、祖父：そふ）
+Swimming is one of my grandfather's pleasures.
+
+僕たちは夏休みを楽しみにしています。（僕：ぼく）
+We are looking forward to the summer vacation.
+
+娘さんは旅行を楽しんだそうですね。（娘：蒸すめ、旅行：りょこう）
+I hear your daughter enjoyed her trip.
+
+子供たちは野球の試合を見て楽しんだ。（野球：やきゅう、試合：しあい）
+The children enjoyed watching the baseball game.
+
+それは楽な仕事です。（仕事：しごと）
+That is easy work.
+
+きょうの宿題は楽にできます。（宿題：しゅくだい）
+I was able to do today's homework easily!
+
+どうぞお楽にさってください。
+Please make yourself comfortable.
+
++++ 148. 活
+
+||生活||seikatu||life, existence; livelihood||
+||活気||kakki||liveliness, vigor, spirit||
+||活用||katuyou||practical use||
+||活用する||katuyou suru||to put to practical use, to make good use of||
+
+このワークブックを大いに活用なさい。（大：おお）
+Make good use of this workbook.
+
+叔母は英語を教えて生活しています。（叔母：おば、教：おし）
+My aunt makes her living by teaching English.
+
+この町は活気があります。
+This town is lively.
+
++++ 149. 丸
+
+||丸||maru||circle||
+||丸い||marui, marûkatta (//also written// 円い)||round||
+||日の丸||hi no maru||Rising Sun flag||
+||丸太||maruta||log||
+
+ここに丸をかいてください。
+Draw a circle here, please.
+
+正解を丸で囲みなさい。（正解：せいかい、囲：がこ）
+Circle the correct answer.
+
++++ 150. 岩
+
+||岩||iwâ||(very large) rock||
+||岩石||gânseki||rock||
+
+岩の多い山に登りました。（多：おお、登：のぼ）
+We climbed a mountain with many rocks.
+
+ボートは岩にぶつかりました。
+The boat ran against a rock.
+
+[[# 151]]
++++ 151. 顔
+
+||顔||kao||face (person or animal); look (on face), expression||
+||笑顔||êgao||smiling face||
+||顔面||ganmen||face||
+||顔色||kaoiro||complexion; look (on face), expression||
+
+この子はかわいい顔をしていますね。
+This child has a cute face, doesn't she?
+
+川村さんはそのとき悲しそうな顔をしていました。（悲：かな）
+Mr. Kawamura had a sad look on his face then.
+
+課長は笑顔で入ってきました。（課長：かちょう、入：はい）
+The section chief came in with a smiling face.
+
+どうしましたか。顔色が悪いですよ。（悪：わる）
+What's the matter? Your color is bad!
+
+その知らせに部長は顔色を変えました。（知：し、部長：ぶちょう、変：か）
+
++++ 152. 汽
+
+||汽車||kîsya||(steam) train||
+||汽船||kisen||steamship||
+
++++ 153. 記
+
+||記事||kîzi||(news) article||
+||日記||nikki||diary||
+||記者||kîsya||reporter||
+
+西田さんは５年間日記をつけています。
+Ms. Nishida has been keeping a diary for 5 years.
+
++++ 154. 弓
+
+||弓||yumî||bow (which shoots arrow)||
+
+アーチエリーの選手は弓に矢をつがえた。（選手：せんしゅ、矢：や）
+The archery competitor fitted an arrow to the bow.
+
+猟師は弓を引いて矢を放った。（猟師：りょうし、引：日、放：はな）
+The hunter drew the bow and shot the arrow.
+
++++ 155. 牛
+
+||牛||usi||cow, bull, ox||
+||牛肉||gyuuniku||beef||
+
+おじいさんは牛の乳を搾っている。（乳：ちち、搾：しぼ）
+Grandfather is milking the cows.
+
++++ 156. 魚
+
+||魚||sakana||fish||
+||金魚||gîngyo||goldfish||
+||人魚||nîngyo||merman, mermaid||
+||川魚||kawauo||river fish, freshwater fish||
+
+この湖には魚がたくさんいるよ。（湖：みずうみ）
+There are a lot of fish in this lake!
+
+私は肉より魚のほうが好きです。（好：す）
+I like fish better than meat.
+
++++ 157. 強
+
+||強い||tuyôi, tûyokatta||strong||
+||強化||kyôuka||strengthening, reinforcement||
+||強める||tuyómèru, tuyômeta||make stronger||
+||強まる||tuyómàru, tuyómàtta||become stronger||
+
+強い風が吹いているよ。（風：かぜ、吹：ふ）
+A strong wind is blowing!
+
+ドアを強く押して開けてください。（押：お、開：あ）
+Please push the door strongly and open it.
+
+雨が強く降っています。（降：ふ）
+It's raining hard.
+
+山根さんは科学に強いね。（科学：かがく）
+Ms. Yamane is good at science, isn't she?
+
++++ 158. 教
+
+||教える||osieru, osieta||teach; tell, inform, show||
+||教会||kyoukai||church||
+||教室||kyousitu||classroom||
+||教科書||kyoúkàsyo||textbook||
+||教科||kyôuka||subject||
+
+吉田先生は音楽を教えています。
+Ms. Yosida teaches music.
+
+英文の手紙の書き方を教えてください。(英文：えいぶん、方：かた）
+Please teach me how to write letters in English.
+
+駅へ行く道を教えてください。
+Please tell me the way to the station.
+
+この道具の使い方を教えてくれませんか。（道具：どうぐ、使い方：つかいかた）
+Will you show me how to use this tool?
+
+毎週日曜日に教会に行きます。
+I go to church every Sunday.
+
++++ 159. 近
+
+||近い||tikâi, tikâkatta||close, near||
+||最近||saikin||recently||
+||近代||kîndai||modern (In Japanese history the years 1868–1945)||
+||近ずく||tikádùku, tikádùita||get close||
+
+いちばん近い郵便局はどうですか。（郵便局：ゆうびんきょく）
+Where is the nearest post office?
+
+ クリスマスが近いですね。
+Christmas is near, isn't it?
+
+祖父は７０に近いです。（祖父：そふ）
+My grandfather is nearly seventy.
+
+近いうちにまたその人に会います。
+I will see that person again soon.
+
+最近５年間にそんなインフレはなかった。
+There hasn't been this kind of inflation in the last five years.
+
+最近山中さんに会いましたか。
+Have you seen Ms. Yamanaka lately?
+
+父は最近まで大阪にいました。
+My father was in Osaka until recently.
+
+最近の二ユースを聞きましたか。
+Have you heard the latest news?
+
+最近の若者は礼儀正しくないです。（若者：わかもの、礼儀：れいぎ）
+Young people these days are not polite.
+
+ブスは終点に近づきました。（終点：しゅうてん）
+The bus approached the last stop.
+
+外国人が私のほうへ近づいてきました。
+A foreigner approached me.
+
++++ 160. 兄
+
+||兄||âni||older brother||
+||お兄さん||onîisan||older brother (honorific polite)||
+||兄弟||kyôudai||siblings, brothers and/or sisters||
+
+私にはあにが３人います。
+I have three older brothers.
+
+兄弟がいますか。
+Do you have any brothers or sisters?
+
+健ちゃんと由美ちゃんは兄弟です。
+Ken and Yumi are brother and sister.
+
+私は３人兄弟です。
+I am one of three children.
+
+[[# 161]]
++++ 161. 形
+
+||形||katati||shape, form||
+||形式||keisiki||(outward) form; a formality||
+||形成する||keisei suru||form, shape, mold, make, compose||
+||人形||ningyou||doll||
+||山形||yamâgata||Yamagata (prefecture in Honshu)||
+
+それはどんな形ですか。
+What kind of shape is that?
+
+そのパンは動物の形をしています。（動物：どうぶつ）
+That bread is in the shape of an animal.
+
+人形があちこちで動いておりました。（動：うご）
+There were dolls moving around all over the place.
+
++++ 162. 計
+
+||計画||keikaku||plan (of action)||
+||計画する||keikaku suru||plan||
+||計算||keisan||calculation, computation||
+||会計||kaikei||accounts, accounting; bill, check||
+||合計||goukei||sum, total||
+||時計||tokei||clock, watch||
+||計上する||keizyou suru||sum up, appropriate (a sum)||
+||計る||hakâru, hakâtta||measure||
+
+夏休みの計画を立てています。（夏：なつ、立：た）
+I am making plans for the summer vacation.
+
+ピクニックに行く計画立ていました。
+We planned to go on a picnic.
+
+妹は計算が速いです。（速：はや）
+My younger sister is quick at calculation.
+
+会計をお願いします.
+Check, please. (In a restaurant.)
+
+看護婦は私の体温を計りました。（看護婦：かんごふ、体温：たいおん）
+The nurse took my temperature.
+
++++ 163. 元
+
+||元||môto||cause, origin, source; _
+foundation, basis; _
+materials, ingredients; _
+once, formerly, previously; _
+capital, funds (for starting an enterprise)||
+||元気||gênki||vigor, liveliness; health _
+good spirits, cheerfulness||
+||地元||zimoto||local area, area directly involved||
+||次元||zigen||dimension; perspective, point of reference, level||
+||手元||temótò||at hand, on hand, nearby, close at hand||
+||元々||motomoto||from the beginning, originally; by nature, as inborn characteristic||
+||足元||asímòto||at one's feet, underfoot||
+||元年||gânnen||first year of an imperial reign||
+
+失敗の元は何でしたか。（失敗：しっぱい）
+What was the cause of the failure?
+
+木田さんは元は大阪に住んでいました。（住：す）
+Mr. Kida once lived in Osaka.
+
+ハリス氏は元の首相です。（氏：し、首相：しゅしょう）
+Mr. Harris is a former prime minister.
+
+お元気ですか。
+How are you?
+
+祖母はだんだん元気になってきています。（祖母：そぼ）
+My grandmother has gradually gotten better.
+
+弟はとても元気な子です。
+My younger brother is a very spirited child.
+
+私はいつも辞典を３冊手元に置いています。（辞典：じてん、冊：さつ、置：お）
+I always keep three dictionaries at hand.
+
+僕はもともとその計画に反対です。（僕：ぼく、計画：けいかく、反対：はんたい）
+I was against the plan from the beginning.
+
+市川君はもともとテニスがうまいよ。（君：くん）
+Ichikawa is naturally good at tennis!
+
++++ 164. 原
+
+||原理||gênri||(basic) principle||
+||原||hâra||field, plain, prairie||
+||原作||gensaku||the original (i.e. book on which movie, translation is based)||
+||原子||gênsi||atom||
+||原子力||geńsìryoku||atomic energy||
+||原点||gênten||starting point, origin (coordinates)||
+||原発||genpatu||nuclear power plant, nuclear power generation||
+
+誰もがその考えを原理的には認めるだろう。（誰：だれ、的：てき、認：みと）
+Everyone will accept that idea in principle.
+
+仏教の原理に従って行動するのは難しいですか。（仏教：ぶっきょう、従：したが、行動：こうどう、難：むずか）
+Is it difficult to act according to Buddhist principles?
+
+私達がよく野球を遊んだ原は今すっかり家が建て込んだしました。(達：たち、野球：やきゅう、遊：あそ、家：いえ、建て込：たてこ）
+The field where we used to play ball is now all built up.
+
++++ 165. 戸
+
+||神戸||kôube||Kobe||
+||戸||to||door||
+||戸口||tôguti||door, doorway||
+||雨戸||amâdo||shutter, rain door||
+
+だれかが戸をたたいているよ。
+Someone is knocking on the door!
+
++++ 166. 工
+
+||工事||kôuzi||construction work; repair work (on major construction projects)||
+||人工の||zinkou||artificial, man-made||
+||工学||kougaku||engineering||
+||工場||koúzyòu||factory||
+||工作する||kousaku suru||build, construct||
+||大工||dâiku||carpenter||
+
+鉄道はまだ工事中です。（鉄道：てつどう）
+The railroad is still under construction.
+
+戦後日本は科学と工学に大いに進歩した。（戦後：せんご、大：おお、進歩：しんぽ）
+Since the war, Japan has advanced greatly in science and technology.
+
+私のおじいちゃんは大工です。
+My grandfather is a carpenter.
+
+彼は大工仕事うまい。（仕事：しごと）
+He is a good carpenter.
+
++++ 167. 公
+
+||公園||kouen||park||
+||公式||kousiki||(mathematical) formula||
+||公式の||kousiki no||official, formal||
+||公||ooyake||public, open||
+||公正||kousei||justice, fairness, impartiality||
+||公社||kôusya||public corporation||
+||公平||kouhei||fairness, impartiality||
+||公立の||kouritu no||public, publicly administered||
+
+その知らせを公にしました。
+They made that news public.
+
++++ 168. 広
+
+||広い||hirôi, hîrokatta||wide, broad; large, spacious||
+||広がる||hirogaru, hirogatta||widen, become more spacious; _
+spread, become widespread; _
+stretch out as large expanse||
+||広げる||hirogeru, hirogeta||widen, make more spacious; _
+spread out, lay out, unfold||
+||広場||hîroba||open space, square, plaza||
+||広大な||koudai na||vast, immense||
+||広まる||hirómàru, hirómàtta||spread, become widespread||
+||広める||hirómèru, hirômeta||spread, make widespread, propagate||
+
+信濃川は川幅がとても広いです。（川幅：かわはば）
+The Shinano River is very wide. (As for the Shinano River, the width of the river is very wide.)
+
+トラックは広い通りに出ました。（通り：とおり）
+The truck went out onto the broad street.
+
+その画家は広く知られています。（画家：がか）
+The painter is widely known.
+
+この部屋は私のより広いよ。（部屋：へや）
+This room is more spacious than mine!
+
+もう少し行くと、川が広がります。
+If you go a little further, the river will widen.
+
+そのニュースは世界中に広がりました。（世界中：せかいじゅう）
+The news spread throughout the world.
+
+目の前に青い海が広がっています。
+The blue sea is stretching out before our eyes.
+
+その道路を広げる必要があります。（道路：どうろ、必要：ひつよう）
+It is necessary to widen that road.
+
+生徒は机の上に世界地図を広げました。（生徒：せいと、机：つくえ、世界地図：せかいちず）
+The student spread a world map out on the desk.
+
+駅前の広場にみんなが集まりました。（集：あつ）
+Everyone gathered in the square in front of the station.
+
++++ 169. 交
+
+||交通||koutuu||traffic||
+||外交||gaikou||diplomacy||
+||外交官||gaíkòukan||diplomat||
+||外交の||gaikou no||diplomatic, foreign||
+||交付する||kouhu suru||give, grant||
+||交代||koutai||alternating, taking another's place, (work) shift||
+||交わす||kawasu, kawasita||exchange||
+
+彼は交通事故で死んだ。（事故：じこ、死：し）
+He was killed in a traffic accident.
+
+彼は保険の外交をしている。（保険：ほけん）
+He is an insurance salesman. 
+
+彼がそう言ったのは外交辞令だよ。（辞令：じれい）
+He said so just to be polite.
+
+京子さんは妹さんと交代して、壁にペンキを塗りました。（壁：かべ、塗：ぬ）
+Kyoko took her younger sister's place and painted the walls.
+
+彼と言葉を交わしたことがない。（言葉：ことば)
+I've never talked to him. (I've never exchanged words with him.)
+
++++ 170. 光
+
+||光||hikárì||light, illumination||
+||光る||hikâru, hikâtta||emit light, shine, flash||
+||日光||nîkkou||sunshine||
+
+月が明るく光っているね。
+The moon is shining brightly, isn't it?
+
+今夜は星がいっぱい光っているよ。
+A lot of stars are shining tonight!
+
+暗い空に稲妻が光りました。（暗：くら、稲妻：いなずま）
+Lightning flashed across the sky.
+
+[[# 171]]
++++ 171. 考
+
+||考える||kańgàeru, kańgàeta||think, have the idea; think about, consider||
+||考え||kańgàe||tought, thinking; idea; opinion; intention||
+||思考||sikou||thought, thinking||
+||考案||kouan||device, plan, idea||
+
+私はそうは考えません。
+I don't think so.
+
+それについてはどう考えますか。
+What do you think about that?
+
+その夏ヨーロッパに行こうと考えています。
+I'm thinking of going to Europe this summer.
+
+その問題をよく考えてください。（問題：モンダイ）
+Please think about that problem carefully.
+
+木村さんは考えにふけっています。
+Ms. Kimura is lost in thought.
+
+角田さんはいい考えを思いつく人です。（思：おも）
+Mr. Sumida is a person who thinks of good ideas.
+
+私の考えでは、この人が思いのではありません。
+In my opinion, this man is not to blame.
+
+海外旅行をする考えはあrません。（海外：かいがい、旅行：りょこう）
+I have no intention of taking a trip abroad.
+
++++ 172. 黄
+
+||黄色い||kiiroi, kiíròkatta||yellow||
+
++++ 173. 合
+
+||合う||âu, âtta||fit, be the right shape; _
+suit, match; _
+coincide, agree; _
+become correct, become accurate||
+||ー合う||-àu||do to each other, do mutually (added to verb bases)||
+||場合||baai||case, instance, occasion, time||
+||場合に||baai ni||when, if||
+||合わせる||awásèru, awâseta||put together, unit, join, combine; _
+add up, total; _
+adjust, set, fit, make match||
+||組合||kumiai||union (i.e. labor organization)||
+||合意する||goui suru||agree||
+||合理||gôuri||rationality, logicality||
+||合計||goukei||sum, total||
+||合計する||goukei suru||add up, total||
+||知り合い||siriai||acquaintance||
+||話し合い||hanasiai||someone to talk to, companion||
+||間に合う||maníàu||make it in time||
+||組み合わせ||kumiawase||combination||
+||会合||kaigou||meeting, gathering||
+||付き合う||tukiau||associate, carry on social contact, keep company; _
+go along, do together||
+||合同の||goudou no||joint, united, combined||
+
+この場合はこれが正しい答えです。（答え：こたえ）
+In that case, this is the correct answer.
+
+ふざけている場合じゃないよ。
+This is no time to be joking!
+
+雨の場合には体育館で式を行います。（体育館：たいいくかん、式：しき、行：おこな）
+If it rains, we will hold the ceremony in the sports center.
+
+海外へ行く場合にはパスポートが必要だ。（海外：かいがい、必要：ひつよう）
+A passport is necessary when going overseas.
+
+このセーターは私にぴったり合うよ。
+This sweater fits me perfectly.
+
+緑が母にとてもよく合いました。（緑：みどり）
+Green suits my mother very well.
+
+このブレザーとシャツはよく合っています。
+That blazer and shirt match well.
+
+私は父と意見が合わないよ。（意見：いけん）
+My opinion and my father's don't agree!
+
+この時計は合っていますか。（時計：とけい）
+Is this clock correct?
+
+二人は向かい合って立っています。（向：む）
+The two of them were standing facing each other.
+
+この２枚の板を合わせてくれる？（枚：まい、板：いた）
+Will you put these two boards together?
+
+１等賞を取るために力を合わせましょう。（等賞：とうしょう、取：と、力：ちから）
+Let's combine our efforts in order to win first prize.
+
+合わせて１万円になります。
+It comes to ¥10,000 in all.
+
+美智子さんは音楽に合わせて滑りました。（滑：すべ）
+Michiko skated to the music.
+
+合計でいくらですか。
+How much is it all together?
+
+靴と帽子は合計１万円かかりました。（靴：くつ、帽子：ぼうし）
+The shoes and the hat cost ¥10,000 all together.
+
+宮下さんは私の知り合いです。
+Ms. Miyashita is an acquaintance of mine.
+
+急がないと、学校に間に合わないよ。（急：いそ）
+If you don't hurry, you won't make it to school in time!
+
+色の組み合わせがおかしいです。
+The combination of colors is odd.
+
+テニストーナメントの組み合わせが決まった。（決：き）
+The tennis tournament pairings were decided.
+
+課長は天野さんと付き合っているよ。（課長：かちよう）
+The section chief is going out with Ms. Amano!
+
+買い物に付き合ってくれる？（買い物：かいもの）
+Will you come shopping with me?
+
+食事を付き合ってください。（食事：しょくじ）
+Please dine with me.
+
++++ 174. 谷
+
+||谷||tanî||valley||
+
++++ 175. 黒
+
+||黒い||kurôi, kûrokatta||black||
+||黒人||kokuzin||black person, negro||
+||黒字||kurozi||in the black, surplus||
+
+平野さんは黒い猫を飼っています。（猫：ねこ、飼：か）
+Mr. Hirano keeps a black cat.
+
++++ 176. 才
+
+||天才||tensai||(person of) genius||
+||天才的な||tensaiteki na||highly gifted||
+
+モーツァルトは音楽の天才でした。
+Mozart was a musical genius.
+
+岡田さんは天才的なピアニストです。
+Ms. Okada is a highly gifted pianist.
+
++++ 177. 細
+
+||細かい||komákài, komákàkatta||very small, fine (numerous or having many pieces); _
+minor, trivial; _
+detailed, minute||
+||細い||hosôi, hôsokatta||thin, slender, slim, small (in diameter)||
+||細部||sâibu||details, particulars||
+
+細かい字を書きますね。
+Your writing is very small, isn't it?
+
+この海岸は砂がとても細かいです。（海岸：かいがん、砂：すな）
+The sand on this beach is very fine.
+
+たまねぎを細かく刻みなさい。（刻：きざ）
+Chop the onions very fine.
+
+細かい事でけんかをしないで。
+Don't quarrel over trivial things.
+
+谷本さんの指は細いですね。（指：ゆび）
+Ms. Tanimoto's fingers are slender, aren't they?
+
+姉は細い体をしています。（体：からだ）
+My older sister is slim. (My older sister has a slim body.)
+
+この細いひもを使ってもいいですか。
+Is it all right to use this thin string?
+
+この細い道を行けば、公園に出ます。
+If you go along this narrow road, you'll come to a the park.
+
++++ 178. 算
+
+||予算||yosan||budget||
+||計算||keisan||computation, calculation||
+||算定||santei||calculation, estimation, computation||
+||算数||sańsùu||arithmetic||
+||算出する||sansyutu suru||calculate, compute||
+
+母は旅行の予算を立てました。(旅行:りょこう、立：た）
+My mother prepared a budget for the trip.
+
+彼の計算は正確だ。(正確：せいかく）
+His calculations are accurate.
+
+君の計算は私のと合っている。
+Your figures agree with mine.
+
+私たちは１週間の出費算出した。
+We calculated our weekly expenditure.
+
++++ 179. 止
+
+||止める||tomeru, tometa||stop (tr. v)||
+||止まる||tomaru, tomatta||stop (intr. v.)||
+||中止||tyuusi||suspension, calling off||
+||中止する||tyuusi suru||suspend, call off||
+||受け止める||ukétomèru, ukétòmeta||stop, catch; receive||
+||立ち止まる||tatídomàru, tatídomàtta||stop (in one's tracks), come to stop, halt, pause, stand still||
+
+父は学校の前に車を止めました。
+My father stopped the car in front of the school.
+
+カスを止めるのを忘れないでください。（忘：わす）
+Please don't forget to turn off the gas.
+
+けんかをやめてください。
+Please stop quarreling.
+
+夜遅く寝るのをやめなさい。（夜：よる、遅：おそ）
+Stop going to bed late at night.
+
+父はたばこをやめました。
+My father gave up smoking.
+
+突然寒くなったから、遠足をやめました。（突然：とつぜん、寒：さむ、遠足：えんそく）
+It suddenly got cold, so we gave up the excursion.
+
+そのパトカーは銀行の前で急に止まった。（銀行：ぎんこう、急：きゅう）
+That patrol car suddenly stopped in front of the bank.
+
+この時計は止まっていますね。（時計：とけい)
+This watch has stopped, hasn't it?
+
+患者の脈が止まりました。（患者：かんじゃ、脈：みゃく）
+The patient's pulse stopped.
+
+電線に鳥が止っています。（電線：でんせん、鳥：とり）
+A bird is perched on the power line.
+
+雪がやみました。
+The snow stopped.
+
+激しい雨ですが、まもなくやむでしょう。（激：はげ）
+It is violent rain, but it will probably die down soon.
+
+雨が降ったりやんだりしています。(降：ふ）
+It's raining on and off. (Rain is alternately falling and stopping.)
+
+その試合は大雨のため中止になりました。（試合：しあい、大雨：おおあめ）
+That game was called off because of heavy rain.
+
+ボーイスカウトはキャンプを中止した。
+The boy scouts called off their camp.
+
+お父さんは立ち止まって、地図を見ました。（地図：ちず）
+Dad stopped walking and looked at the map.
+
++++ 180. 市
+
+||市||sî||city||
+||京都市||kyoútò si||Kyoto City||
+||市||îti||market, fair||
+||市場||sizyou||market||
+||都市||tôsi||cities, urban communities||
+||市町村||sityôuson||cities, towns, and villages; municipalities||
+||市内||sûnai||in the city, within city limits||
+||市長||sityôu||mayor||
+||市立||sîritu||municipal||
+
+毎月曜日に市が立つ。
+Markets are held every Monday.
+
+アメリカは日本にコンピューター市場の開放を求めてきた。（開放：かいほ、求：もと）
+The U.S. has asked Japan to open up its market for computers.
+
+彼女は５年間この市の市長をしています。
+She has been mayor of this city for five years.
+
+[[# 181]]
++++ 181. 矢
+
+||矢||yâ||arrow||
+||矢先||yasaki||arrowhead||
+
++++ 182. 姉
+
+||姉||ane||older sister||
+||お姉さん||onêesan||older sister||
+||姉妹||sîmai||sisters||
+
+姉はスチュワーデスです。
+My older sister is a stewardess.
+
++++ 183. 寺
+
+||寺||terâ||(Buddhist) temple||
+||お寺||otera||(Buddhist) temple||
+||寺院||zîin||(Buddhist) temple||
+
++++ 184. 自
+
+||自分||zibun||self, oneself||
+||自分で||zibun de||by oneself, on one's own||
+||自分の||zibun no||one's own||
+||自身||zîsin||self, oneself||
+||自体||zitai||itself (noun suffix)||
+||自ら||mîzukara||oneself||
+||自らの||mîzukara no||one's own||
+||自立||ziritu||independence||
+||自社||zîsya||one's company, the company one works for||
+
+初めて自分をテレビで見ました。（初：はじ）
+I saw myself for the first time on TV.
+
+その宿題を自分でやりなさい。（宿題：しゅくだい）
+Do that homework yourself.
+
+自分の消しゴムを使いなさい。（消：け）
+Use your own eraser.
+
+私の自分の家を持っています。（持：も）
+I have my own house.
+
+車自体は良くも悪くもない。運転する人次第です。（良：よ、悪：わる、運転：うんてん、次第：しだい）
+A car in itself is neither good nor bad; it depends on the driver.
+
++++ 185. 室
+
+||室||murô||greenhouse; cellar||
+||教室||kyousitu||class, classroom||
+||室内||sitûnai||indoors||
+||室内の||sitûnai no||indoor||
+||皇室||kousitu||imperial house of Japan||
+||室長||situtyou||section chief; office head; room monitor||
+
+教室には誰もいなかった。（誰：だれ)
+There was nobody in the classroom.
+
++++ 186. 弱
+
+||弱い||yowâi, yôwakatta||weak||
+||弱者||zyâkusya||weak person||
+||弱点||zyakútèn||weak point, shortcoming||
+||弱る||yowâru, yowâtta||lose vigor, get weaker; _
+get into difficulty, get into a quandary, become troubled||
+
+この子は生まれつき体が弱いのです。（生：う、体：からだ）
+This is child is weak by nature. (As for this child, the body is weak by nature.)
+
+棒は数学に弱い。（僕：ぼく、数学：すうがく）
+I'm weak in math.
+
+うちの娘は乗り物に弱いが悩みです。（娘：むすめ、乗り物：のりもの、悩：なや）
+The fact that our daughter gets motion sickness in vehicles is a worry.
+
+自分の弱点を克服しようと努力します。（自分：じぶん、克服：こくふく、努力：どりょく）
+I will work hard to overcome my shortcomings.
+
+重病の父は日増しに弱っています。（重病：じゅうびょう、日増：ひま）
+My critically-ill father is getting weaker day by day.
+
++++ 187. 首
+
+||首相||syusyou||prime minister||
+||首||kubi||neck; head (including neck); firing (of employee)||
+||首を長くして||kubi o nâgaku site||expectantly, eagerly||
+||首をかしげる||kubi o kasigeru||incline one's head to the side (expressing doubt)||
+
+あの選手は首が太いですね。（選手：せんしゅ）
+That player's neck is thick, isn't it?
+
+娘は夏休みを首を長くして待っています。（娘：むすめ)
+My daughter is waiting eagerly for summer vacation.
+
+少女は首を横に振りました。（少女：しょうじょ、横：よこ、振：ふ）
+The girl shook her head (no).
+
+君は首だ！（君：きみ）
+You're fired!
+
++++ 188. 秋
+
+||秋||âki||autumn, fall||
+||秋晴れ||akibare||clear sky typical of autumn||
+||秋田||âkita||Akita (prefecture on Honshu)||
+
+ジムさんはこの秋にアメリカに帰ります。
+Jim is going back to the United States this fall.
+
++++ 189. 春
+
+||春||hâru||spring (season)||
+||青春||seisyun||youth, adolescence||
+||売春||baisyun||prostitution||
+||売春する||baisyun suru||become a prostitute||
+
+もうすぐ春です。
+It will soon be spring.
+
+春には花見に出かけます。（出：で）
+In the spring we go out cherry-blossom viewing.
+
+この春家族でハイキングに行きました。（家族：かぞく）
+We went hiking as a family this spring.
+
+青春は二度と来ないよ。（二度：にど）
+Youth will never come again!
+
+父は青春時代を京都で過ごしました。（京都：きょうと、過：す）
+My father spent his youth in Kyoto.
+
++++ 190. 場
+
+||場合||baai||case, instance, occasion, time||
+||場合に||baai ni||(following a clause) when; if||
+||場||ba||place; occasion, time; scene (in a play)||
+||市場||sizyou||market||
+||立場||tâtiba||standpoint, place, position||
+||Ａの立場になる||A no tâtiba ni naru||put oneself in A's position||
+||会場||kaizyou||place where meeting/gathering takes place, meeting hall||
+||工場||koúzyòu _
+koúbà||factory, plant, mill||
+||出場||syutuzyou||taking part, participation (in performance or contest||
+||出場する||syutuzyou suru||take part, participate||
+||広場||hîroba||open space, square, plaza||
+||入場||nyuuzyou||entrance, admission (to sporting event, concert)||
+||入場する||nyuuzyou suru||enter||
+
+この場合はこれが正しい答えです。（答：こた）
+In this case, this is the correct answer.
+
+ふざけている場合じゃないよ。
+This is no time to be joking!
+
+校長先生の立場になって考えてください。
+Please put yourself in the principal's place and think about it.
+
+会場は若い人たちでいっぱいです。（若：わか）
+The meeting hall is full of young people.
+
+彼はソニーの工場で働いている。（働：はたら）
+He works in a Sony factory.
+
+マラソンに出場しょうよ。
+Let's participate in a marathon!
+
+[[# 191]]
++++ 191. 色
+
+||色||irô||color||
+||いろいろ||iroiro||variously, in various way, in great variety||
+
+上着の色は派手ですね。（上着：うわぎ、派手：はで）
+The color of the coat is loud, isn't it?
+
+木の葉は秋に色が変わります。（葉：は、変：か）
+The color of leaves changes in autumn.
+
++++ 192. 心
+
+||心||kokôro||mind, mentality; heart, feelings||
+||中心||tyuusin||center, middle; core, heart||
+||中心部||tyuúsinbù||central part||
+||安心||ansin||relief, peace of mind, ease of mind||
+||安心する||ansin suru||to be relieved, to put one's mind at ease||
+||心理||sînri||psychology, mentality||
+
+心をこめて仕事をします。（仕事：しごと）
+I do my work wholeheartedly.
+
+加藤さんは心の広い人です。
+Mr. Kato is a broad-minded person.
+
+洋子さんは心の優しい人です。（優：やさ）
+Yoko is a kind-hearted person.
+
+心から感謝済ます。（感謝：かんしゃ）
+I thank you from my heart.
+
+美知子さんの言葉は私の心を打ったよ。（言葉：ことば、打：う)
+Michiko's words touched my heart.
+
+東京は日本の商業の中心です。（商業：しょうぎょう）
+Tokyo is the business center of Japan.
+
+駅は町の中心部にあります。
+The station is at the central part of the town.
+
+その知らせを聞いて安心しました。
+I was relieved to hear the news.
+
+その事については安心してください。（事：こと）
+Please put your mind at ease about that.
+
++++ 193. 親
+
+||親||oyâ||parent||
+||母親||hahaoya||mother, female parent||
+||父親||titioya||father, male parent||
+||親子||ôyako||parent and child||
+||親切||sînsetu||kindness||
+||親切な||sînsetu na||kind, nice||
+||親しい||sitásìi, sitâku||friendly, intimate, close||
+||親友||sinyuu||close friend, good friend||
+
+この親にしてこの子あり。
+Like father, like son. (Given this parent there will be this child.)
+
+洋子さんはだれにでも親切です。
+Yoko is kind to everyone.
+
+正男君は親切にノートを見せてくれた。（君：くん）
+Masao kindly showed me his notebook.
+
+息子さんは親しい友達はほとんどいません。（息子：むすこ、友達：ともだち）
+My son has almost no close friends.
+
+恵子ちゃんと親しくなったよ。
+I've become friendly with Keiko!
+
+名取君は僕の親友の一人です。（君：くん、僕：ぼく）
+Natori is one of my close friends.
+
++++ 194. 図
+
+||図||zu||figure, drawing, illustration||
+||地図||tîzu||map||
+||図る||hakâru, hakâtta||attempt; plan||
+||図書室||tosyôsitu||library (room)||
+||意図||îto||intention, aim||
+||図書||tôsyo||books||
+||合図||âisu||sign, signal||
+||合図する||âisu suru||make a sign, signal||
+
+世界の地図を見てみょう。
+Let's have a look at the map of the world.
+
+ロンドンを地図で捜しなさい。
+Look for London on the map.
+
+準備ができたら、合図します。（準備：じゅんび）
+When the preparations are done, I'll signal.
+
++++ 195. 数
+
+||数||kâzu||number||
+||数多く||kazúòoku||many||
+||数字||suuzi||numeral, figure||
+||ローマ数字||roómasùuzi||Roman numeral||
+||多数||tasûu||many, a large number of; majority||
+||数学||suugaku||mathematics||
+||数学者||suúgàkusya||mathematician||
+||人数||nînzuu||number (of people)||
+||手数||tesûu||time and effort, trouble||
+||手数がかかる||tesûu ga kakâru||to be a lot of trouble||
+||手数料||tesûuryou||handling charge, commission fee||
+||少数||syoúsùu||few, small number of; minority||
+||数々||kâzukazu||many; numerous; various; large number of​||
+||文字数||mozîsuu||number of characters; number of letters; word count​||
+||回数||kaísùu||the number of times||
+||数える||kazóèru, kazôeta||count, reckon the number of||
+
+生徒の数は５００人です。（生徒：せいと）
+The number of students is 500.
+
+池のおひるの数を数えなさい。（池：いけ）
+Count the number of ducks in the pond.
+
+広場に数多くの人がいます。（広場：ひろば）
+There are a lot of people in the square.
+
+きょうは数学の授業があるよ。（授業：じゅぎょう）
+We have math class today!
+
+学校の生徒の人数は何人ですか。（生徒：せいと）
+What is the number of school students?
+
+お手数ですが、この手紙を速達で出したくださいませんか。（速達：そくたつ）
+I'm sorry to trouble you, but will you mail this letter by special delivery for me?
+
+ごく少数の学生がその事を知っています。
+A very small number of students know that fact.
+
+横田君の遅刻の回数を数えてください。（遅刻：ちこく）
+Please count the number of times Yokota has been late.
+
+出席者を数えてください。（出席者：しゅっせきしゃ）
+Please count the people present.
+
++++ 196. 西
+
+||西||nisi||west||
+||関西||kânsai||Kansai (region containing Osaka, Kobe, and Kyoto)||
+||西部||sêibu||the western part||
+
+太陽は西に沈みます。（太陽：たいよう、沈：しず）
+The sun sets in the west.
+
++++ 197. 声
+
+||声||kôe||voice||
+||音声||ônsei||voice, speech, sound of voice; sound||
+||声明||seimei||public statement||
+||声明を出す||seímei o dàsu||make a public statement||
+||大声||oógòe||loud voice||
+
+洋子さんは優しい声をしています。（優：やさ）
+Yoko has a gentle voice.
+
+田上君は小さな声でしゃべるね。
+Tagami talks in a soft voice, doesn't he?
+
+先生の声がよく通ります。（通：とお）
+The teacher's voice carries well.
+
+子供たちは声をそろえて叫びました。（子供：こども、叫：さけ）
+The children joined their voices and shouted.
+
+もう少し大きな声で言ってください。
+Please say it in a louder voice.
+
+テレビの音声を低くしてもいい？（低：ひく）
+Do you mind if I turn down the TV?
+
++++ 198. 星
+
+||星||hosi||star; planet||
+||水星||suisei||Mercury (planet)||
+||金星||kinsei||Venus (planet)||
+||火星||kasei||Mars (planet)||
+||木星||mokusei||Jupiter (planet)||
+||土星||dosei||Saturn (planet)||
+
+今夜は空に星が輝いています。（今夜：こんや、輝：かがや）
+Tonight stars are shining in the sky.
+
+今夜は星がたくさん見えるよ。
+Tonight you can see a lot of stars!
+
+
+
++++ 199. 晴
+
+||晴れる||harêru, hâreta||clear up, become cloudless||
+||気分が晴れる||kîbun ga harêru||feel better, recover one's spirits||
+||晴れの||harê no||cloudless, fair, clear||
+||晴天||seiten||fair weather||
+
+午後には晴れるでしょう。
+It will probably clear up in the afternoon.
+
+晴れた空をひばりが飛んでいます。（飛：と）
+Skylarks are flying in the clear sky.
+
+霧はすぐ晴れるそうです。（霧：きり）
+I hear the fog will clear up right away.
+
+あしたは晴れでしょう。
+It will probably be fine tomorrow.
+
+晴れのち曇り
+Fair, cloudy later.
+
+本日は晴天なり。（本日：ほんじつ）
+Today is fair weather. (said when testing a mic)
+
++++ 200. 切
+
+||大切||taisetu||important; precious||
+||大切に||taisetu ni||carefully, with care||
+||大切にする||taisetu ni suru||value, take good care of||
+||切る||kîru, kîtta||cut (something); turn off (device)||
+||トランプを切る||torâmpu o kîru||shuffle cards; cut a deck of cards||
+||話を切る||hanásì o kîru||stop talking, break off what one is saying||
+||電話を切る||deńwa o kìru||cut off a telephone call (e.g. by hanging up)||
+||一切||îssai||everything; completely||
+||一切の||îssai no||whole, entire, every||
+||切れる||kirêru, kîrete||cut (intr.); get cut; break; run out, get used up; _
+be shrewd, be sharp||
+||電話が切れる||deńwa ga kirèru||a phone call is cut off|| 
+||親切||sînsetu||kindness||
+||親切な||sînsetu na||kind, nice||
+||思い切り||omoikiri||resignation (to fate); decision, resolution||
+||思い切りがいい||omoikiri ga ii||willing to resign oneself to fate; decisive, resolute||
+||思い切りが悪い||omoikiri ga warui||indecisive, irresolute||
+||切ない||setúnài||trying, distressing||
+||切手||kitte||(postage) stamp||
+
+読書をすることは大切です。（読書：どくしょ）
+Reading books is important.
+
+健康はとても大切です。（健康：けんこう）
+Good health is precious.
+
+大切に扱ってください。（扱：あつか）
+Handle with care.
+
+そのケーキを六つに切ってください。
+Please cut that cake into six.
+
+パンを切ってくれる？
+Will you cut the bread for me?
+
+電話を切らないでください。
+Please don't hang up the phone.
+
+寝る前にテレビを切りなさい。（寝：ね）
+Before you go to bed turn off the TV.
+
+このナイフはよく切れます。
+This knife cuts well.
+
+母の手は寒さでひびが切れていた。（寒：さむ）
+Mother's hands are chapped from the cold.
+
+靴のひもが切れた。（靴：くつ）
+My shoe lace broke.
+
+砂糖が切れてしまったよ。（砂糖：さとう）
+The sugar has run out!
+
+正雄さんは切れる人ですね。
+Masao is a shrewd person, isn't he?
+
+[[# 201_300]]
++ 201–300
+
+||~ ||~ 1||~ 2||~ 3||~ 4||~ 5||~ 6||~ 7||~ 8||~ 9||~ 0||
+||~ [#201 201]||雪||船||線||組||走||多||太||体||台||地||
+||~ [#211 211]||池||茶||昼||長||鳥||直||通||弟||店||点||
+||~ [#221 221]||刀||冬||当||答||頭||同||道||内||南||肉||
+||~ [#231 231]||馬||売||買||麦||番||風||米||歩||北||妹||
+||~ [#241 241]||明||鳴||毛||門||夜||野||用||里||理||定||
+||~ [#251 251]||無||不||舌||又||取||身||信||付||受||以||
+||~ [#261 261]||部||倍||成||代||宝||皇||全||事||刃||別||
+||~ [#271 271]||好||案||者||式||弐||武||件||条||化||比||
+||~ [#281 281]||背||性||畑||素||毒||洗||去||法||潮||発||
+||~ [#291 291]||意||昨||頁||乳||豆||予||矛||預||句||旬||
+
+//kanji 201–249 are Joyo-2; kanji 250–300 are from Kanji Learner's Course 44–167//
+
+[[# 201]]
++++ 201. 雪
++++ 202. 船
++++ 203. 線
++++ 204. 組
++++ 205. 走
+
+||走る||hasîru, hasîtta||run (subject person, animal, or vehicle)||
+||走行||soukou||running a wheeled vehicle, travelling||
+||走り回る||hasírimawàru||run around||
+
+信次さんは走るのがとても速いね。（速：はや）
+Sinji runs very fast, doesn't he?
+
+弟は私のところへ走ってきました。
+My younger brother came running to me.
+
+私たちは駅までずっと走りました。
+We ran all the way to the station.
+
+そのブスは東京・名古屋感を走ります。
+That bus runs between Tokyo and Nagoya.
+
++++ 206. 多
++++ 207. 太
++++ 208. 体
++++ 209. 台
++++ 210. 地
+
+[[# 211]]
++++ 211. 池
++++ 212. 茶
++++ 213. 昼
+
+||昼||ヒル||noon||
+
++++ 214. 長
+
+||長い||nagâi, nâgakatta||long||
+
++++ 215. 鳥
++++ 216. 直
+
+||直す||naôsu, naôsite||fix, repair; correct; translate||
+||直る||naôru, naôtte||become repaired||
+
+父は壊れたいすを直してくれた。（壊：こわ）
+My father mended the broken chair for me.
+
+この文章の誤りを治してください。（文章：ぶんしょう、誤：おやま）
+Please correct the errors in this passage.
+
+この文を日本語に直してください。（文：ぶん）
+Please translate this sentence to Japanese.
+
+私の自転車は直りましたか。（自転車：じてんしゃ）
+Is my bicycle fixed?
+
++++ 217. 通
++++ 218. 弟
++++ 219. 店
+
+でわ店番があるので、今日は帰りますね。（番：ばん）
+Well, I need to tend to the shop, so I'll be heading back for the day.
+
++++ 220. 点
+
+[[# 221]]
++++ 221. 刀
++++ 222. 冬 
++++ 223. 当
++++ 224. 答
++++ 225. 頭
++++ 226. 同
++++ 227. 道
++++ 228. 内
++++ 229. 南
++++ 230. 肉
+
+[[# 231]]
++++ 231. 馬
+
+||絵馬||エマ||wooden plaque with prayer written on it||
+
++++ 232. 売
++++ 233. 買
++++ 234. 麦
++++ 235. 番
++++ 236. 風
++++ 237. 米
++++ 238. 歩 
++++ 239. 北
++++ 240. 妹
+
+[[# 241]]
++++ 241. 明
++++ 242. 鳴
++++ 243. 毛
++++ 244. 門
+
+||部門||bûmon||class; category; division; department; section||
+||入門書||nyuumonsyo||primer; manual; introductory book||
+||門||môn||gate; gateway||
+
+彼は年少部門で１等賞をとった。（年少：ねんしょう、等：とう、賞：しょう）
+He won the first prize in the junior category.
+
+彼女は園芸の入門書を読んでいる。（園芸：えんげい）
+She is reading a manual on gardening.
+
++++ 245. 夜
++++ 246. 野
++++ 247. 用
++++ 248. 里
++++ 249. 理
++++ 250. 定
+
+[[# 251]]
++++ 251. 無
++++ 252. 不
++++ 253. 舌
++++ 254. 又
++++ 255. 取
++++ 256. 身
++++ 257. 信
++++ 258. 付
++++ 259. 受
++++ 260. 以
+
+[[# 261]]
++++ 261. 部
++++ 262. 倍
++++ 263. 成
++++ 264. 代
++++ 265. 宝
++++ 266. 皇
++++ 267. 全
++++ 268. 事
+
+||事||koto||thing, matter, affair||
+||記事||kîzi||(news) article||
+||事件||zîken||event, incident||
+||大事な||daizi na||important; precious||
+||大事にする||daizi ni suru||take good care of; value||
+||食事||syokuzi||meal, repast||
+||理事||rîzi||director, trustee||
+||工事||kôuzi||construction work, repair work (on construction projects)||
+||出来事||dekîgoto||occurrence, event||
+||無事な||buzi na||free from mishap, safe||
+||見事な||mîgoto na||excellent, wonderful, splendid||
+||知事||tîzi||governor (of state or prefecture)||
+||行事||gyôuzi||planned event, function||
+||家事||kâzi||housework||
+||時事||zîzi||current events, current affairs||
+||用事||youzi||matter to attend to, business, errand||
+||火事||kâzi||(destructive) fire||
+
+きょうはする事がたくさんあります。
+Today I have a lot of things to do.
+
+その事については何も知りません。
+I don't know anything about that matter.
+
+それは恐ろしい事件でした。（恐：おそ）
+That was a frightening incident.
+
+どうぞこの本を大事にしてください。
+Please take good care of this book.
+
+来る前に軽く食事をとりました。（軽：かる）
+I had a light meal before I came.
+
+小西さんは私たちを食事に招いてくれた。（招：まね）
+Ms. Konishi invited us over for a meal.
+
+私たちは一日に三度食事をします。（度：ど）
+We eat three times a day.
+
+今晩は外で食事をします。
+We will eat out tonight.
+
+鉄道はまだ工事中です。（鉄道：てつどう）
+The railroad is still under construction.
+
+これは日常の出来事です。（日常：にちじょう）
+This is an everyday occurrence.
+
+ラヂオはきのうの珍しい出来事を報道した。（珍：めずら、報道：ほうどう）
+The radio reported yesterday's unusual events.
+
+今年の大きな出来事について話します。
+We will talk about the major events of this year.
+
+兄は無事に仙台に到着しました。（到着：とうちゃく）
+My older brother arrived in Sendai safely.
+
+その試合は見事なプレーが多かった。（試合：しあい、多：おお）
+A lot of excellent plays were made in that game.
+
+今日は用事がたくさんある。。
+I have a lot of things to do today.
+
+うちの近くで火事がありました。（近：ちか）
+There was a fire near my house.
+
+あのビルは火事だよ。
+That building is on fire!
+
+火事はまもなく消えました。
+The fire soon went out.
+
++++ 269. 刃
++++ 270. 別
+
+[[# 271]]
++++ 271. 好
++++ 272. 案
++++ 273. 者
++++ 274. 式
++++ 275. 弐
++++ 276. 武
++++ 277. 件
++++ 278. 条
++++ 279. 化
++++ 280. 比
+
+[[# 281]]
++++ 281. 背
++++ 282. 性
++++ 283. 畑
++++ 284. 素
+
+||素晴らしい||subárasìi, subáràkatta||wonderful, spendid, magnificent||
+
+ゆうべは素晴らしく楽しかったよ。
+Last night was wonderfully enjoyable!
+
+素晴らしい映画でしたね。（映画：えいが）
+It was a wonderful movie, wasn't it?
+
++++ 285. 毒
++++ 286. 洗
++++ 287. 去
++++ 288. 法
++++ 289. 潮
++++ 290. 発
+
+||開発||kaihatu||development, exploitation (for human use)||
+||開発する||haihatu suru||develop, exploit||
+||発言||hatugen||speaking; statement, utterance||
+||発言する||hatugen suru||speak, say something||
+||発見||hakken||discovery||
+||発見する||hakken suru||discover||
+||発売||hatubai||putting on sale, putting on the market||
+||発売する||hatubai suru||put on sale, put on the market||
+||発行||hakkou||publication, issuing||
+||発行する||hakkou suru||publish, issue||
+||発行者||haḱkòusya||publisher||
+||出発||syuppatu||departure, starting out||
+||出発する||syuppatu suru||depart, leave, start out||
+||発信||hassin||transmission of a message, transmission of a broadcast||
+||発信する||hassin suru||transmit||
+||発電||hatuden||electricity generation||
+||発電する||hatuden suru||generate electricity||
+||発音||hatuon||pronunciation||
+||発音する||hatuon suru||pronounce||
+||発明||hatumei||inventing, invention||
+||発明する||hatumei suru||invent||
+||活発な||kappatu na||active, lively||
+||発足||hossoku||inauguration||
+||発足する||hossoku suru||inaugurate, start out||
+||原発||genpatu||nuclear power plant; nuclear power generation||
+
+課長は会議で一言も発言しませんでした。（課長：かちょう、会議：かいぎ、一言：ひとこと）
+The section chief didn't say a word at the meeting.
+
+だれがエックス線を発見しましたか。（線：せん）
+Who discovered X-rays?
+
+この週刊誌は金曜日に発売されます。（週刊誌：しゅうかんし）
+This weekly magazine is put on sale on Friday.
+
+この本はぜひ発行しましょう。
+Let's publish this book by all means.
+
+エンジン故障のため出発が一時間延びた。（故障：こしょう、延：の）
+Because of engine trouble, the departure was delayed for an hour.
+
+私たちはひの出前に出発しました。（出前：でまえ）
+We started out before sunrise.
+
+あなたの姓はどう発音するのですか。（姓：せい）
+How do you pronounce your last name?
+
+だれが電信機を発明しましたか。（電信機：でんしんき）
+Who invented the telegraph?
+
+必要は発明の母。（必要：ひつよう）
+Necessity is the mother of invention.
+
+英子ちゃんは活発な子供ですね。（子供：こども）
+Eiko is a lively child, isn't she?
+
+[[# 291]]
++++ 291. 意
++++ 292. 昨
++++ 293. 頁
++++ 294. 乳
++++ 295. 豆
++++ 296. 予
++++ 297. 矛
++++ 298. 預
++++ 299. 句
++++ 300. 旬
+
+[[# 301_400]]
++ 301–400
+
+||~ ||~ 1||~ 2||~ 3||~ 4||~ 5||~ 6||~ 7||~ 8||~ 9||~ 0||
+||~ [#301 301]||悪||暗||医||委||育||員||院||運||泳||央||
+||~ [#311 311]||横||屋||温||荷||界||開||階||寒||感||漢||
+||~ [#321 321]||館||岸||起||期||客||究||急||級||宮||球||
+||~ [#331 331]||橋||業||曲||局||銀||区||苦||具||君||係||
+||~ [#341 341]||軽||血||決||研||県||庫||湖||向||幸||港||
+||~ [#351 351]||号||根||祭||皿||仕||死||始||指||歯||詩||
+||~ [#361 361]||次||持||実||写||主||守||酒||州||拾||終||
+||~ [#371 371]||習||集||住||重||宿||所||暑||助||昭||消||
+||~ [#381 381]||商||章||勝||乗||植||申||神||真||深||進||
+||~ [#391 391]||世||整||昔||相||送||想||息||速||族||他||
+
+//The kanji are from Joyo-3//
+
+[[# 301]]
++++ 301.  悪
+
++++ 302.  暗
+
++++ 303.  医
+
++++ 304.  委
+
++++ 305.  育
+
+||教育||キョウイク||education||
+
+姉はイギリスで教育を受けました。（受：う）
+My older sister was educated in England.
+
++++ 306.  員
+
+||教員||キョウイン||teacher||
+
++++ 307.  院
+
+||大学院||daígakùin||graduate school||
+
++++ 308.  運
+
++++ 309.  泳
+
++++ 310.  央
+
+[[# 311]]
++++ 311.  横
+
+||横||yoko||side, the area beside; width||
+||横の||yoko no||horizontal, side-by-side||
+
+ママの横に座りたいよ。（座：すわ）
+I want to sit beside Mama!
+
+横の入口から建物に入りました。（建物：たてもの、入：いり、入：はい）
+I entered the building from the side entrance.
+
+この箱は横が５６センチあります。（箱：はこ）
+The width of this box is 56 cm.
+
++++ 312.  屋
+
+||気分屋||kibûnya||moody person||
+
++++ 313.  温
+
++++ 314.  荷
+
++++ 315.  界
+
++++ 316.  開
+
+||公開||koukai||making open to the public, open to the public||
+
+そのプールは一般に公開されています。（一般：いっぱん）
+That pool is open to the public.
+
++++ 317.  階
+
++++ 318.  寒
+
++++ 319.  感
+
++++ 320.  漢
+
+||漢字||カンジ||Chinese character, kanji||
+
+[[# 321]]
++++ 321.  館
+
+||図書館||tosyôkan||library (building)||
+
++++ 322.  岸
+
++++ 323.  起
+
++++ 324.  期
+
+||時期||ziki||time period, season||
+||学期||gakki||semester, (academic) term||
+
+毎年この時期にはよく雨が降ります。（降：ふ）
+Every year at this time it rains a lot.
+
+今が魚釣りにはいちばんいい時期だよ。（魚釣：さかなつ）
+Now is the best season for fishing!
+
+次の学期は９月に始まります。（始：はじ）
+The next term begins in September.
+
++++ 325.  客
+
++++ 326.  究
+
++++ 327.  急
+
++++ 328.  級
+
++++ 329.  宮
+
++++ 330.  球
+
+[[# 331]]
++++ 331.  橋
+
++++ 332.  業
+
+||工業||コウギョウ||industry||
+||失業||situgyou||unemployment||
+
++++ 333.  曲
+
++++ 334.  局
+
++++ 335.  銀
+
++++ 336.  区
+
++++ 337.  苦
+
++++ 338.  具
+
+||具合||guai||condition, state; way (of doing)||
+
++++ 339.  君
+
++++ 340.  係
+
+[[# 341]]
++++ 341.  軽
+
++++ 342.  血
+
++++ 343.  決
+
+||決める||kimeru, kimeta||decide, set||
+||決算||kessan||settlement of accounts||
+
+会合の時間と場所を決めましよう。（会合：かいごう、場所：ばしょ）
+Let's set the time and place for our meeting.
+
+新しいデサインをこれに決めました。
+I decided on this for the new design.
+
+私たちはすぐ行くことに決めました。
+We decided to go at once.
+
++++ 344.  研
+
++++ 345.  県
+
++++ 346.  庫
+
++++ 347.  湖
+
++++ 348.  向
+
++++ 349.  幸
+
++++ 350.  港
+
+||空港||クウコウ||airport||
+
+[[# 351]]
++++ 351.  号
+
++++ 352.  根
+
++++ 353.  祭
+
++++ 354.  皿
+
++++ 355.  仕
+
++++ 356.  死
+
++++ 357.  始
+
++++ 358.  指
+
+||指数||sisûu||index (number), exponent||
+
++++ 359.  歯
+
++++ 360.  詩
+
+[[# 361]]
++++ 361.  次
+
++++ 362.  持
+
+||気持ち||キモチ||feeling, how a person feels||
+
++++ 363.  実
+
+||実力||ジツリョク||real ability, capability, competence||
+||計画を実行する||ケイカクオジッコースル||carry out a plan||
+
+林先生は実力のある先生です。
+Mr. Hayashi is a capable teacher.
+
+数字の実力をつけたいんです。（数字：スウガク）
+I want to improve my competence in math.
+
++++ 364.  写
+
++++ 365.  主
+
+||主人公||syuzinkou||hero, heroine, protagonist||
+||自主||
+
++++ 366.  守
+
++++ 367.  酒
+
++++ 368.  州
+
++++ 369.  拾
+
++++ 370.  終
+
+[[# 371]]
++++ 371.  習
+
+||学習||gakusyuu||study, learning||
+||学習する||gakusyuu suru||study||
+
++++ 372.  集
+
+||集合||syuugou||gathering, meeting||
+||集計||syuukei||totalization, classified total||
+
++++ 373.  住
+
+中国やチベットの山に住んでいる白黒熊はパンダと呼ばれている。（熊：くま、呼：よ）
+The black and white bears living in the mountains of China and Tibet are called 'pandas'.
+
++++ 374.  重
+
++++ 375.  宿
+
++++ 376.  所
+
+||場所||basyo||place||
+||台所||daidokoro||kitchen||
+
++++ 377.  暑
+
++++ 378.  助
+
++++ 379.  昭
+
++++ 380.  消
+
+[[# 381]]
++++ 381.  商
+
++++ 382.  章
+
+||文章||ブンショウ||text, piece of writing; sentence||
+
++++ 383.  勝
+
+||勝つ||kâtu, kâtta||win, be victorious||
+||ＡがＢに勝つ|| ||A wins B, A is victorious in B; _
+A is victorious over B, A beats B, A defeats B||
+||勝手||katte||selfishness, doing as one pleases _
+w/o consideration for others||
+||勝手な||katte na||selfish||
+||勝手に||katte ni||as one pleases; without permission||
+||自分勝手||zibúnkàtte||selfish||
+||決勝||kessyou||deciding the champion; _
+finals, championship game, title match||
+||かち||kati||win, victory||
+||勝者||syôusya||winner||
+
+やったわ！私の勝ちね。
+I did it! I won.
+
+僕たちのチームはその試合に５対３で勝ってよ。
+Our team one that game 5 to 3!
+
+戦争に勝つ（戦争：せんそう）
+to win a war
+
+レースに平田くんに勝ったよ。
+I beat Hirata in the race!
+
+それは僕の勝手でしょう？
+It's up to me to do as I please, right?
+
+そんな勝手なことを言わないでください。
+Please don't say such selfish things.
+
+勝手にしなさい。
+Do as you like. (a rebuke)
+
+これを勝手に使ってはいけないよ。
+You shouldn't use this without permission!
+
+広島の勝ちです。
+It's a win for Hiroshima.
+
++++ 384.  乗
+
++++ 385.  植
+
++++ 386.  申
+
++++ 387.  神
+
++++ 388.  真
+
++++ 389.  深
+
++++ 390.  進
+
+[[# 391]]
++++ 391.  世
+
+||世話||sewa||taking care, looking after; assistance, aid||
+||Ａの世話をする||A no sewa o suru||take care of A, look after A||
+||世話になる||sewa ni naru||become obliged for having received help||
+
++++ 392.  整
+
++++ 393.  昔
+
++++ 394.  相
+
+||相場||souba||market price; speculation, playing the market||
+
++++ 395.  送
+
++++ 396.  想
+
++++ 397.  息
+
+||休息||kyuusoku||rest, break||
+||休息する||kyuusoku suru||rest, take a break||
+
++++ 398.  速
+
++++ 399.  族
+
+||家族||カゾク||family||
+
++++ 400.  他
+
+[[# 401_500]]
++ 401–500
+
+||~ ||~ 1||~ 2||~ 3||~ 4||~ 5||~ 6||~ 7||~ 8||~ 9||~ 0||
+||~ [#401 401]||打||対||第||題||炭||短||談||着||注||柱||
+||~ [#411 411]||丁||帳||調||追||庭||笛||鉄||転||都||度||
+||~ [#421 421]||投||島||湯||登||等||動||童||農||波||配||
+||~ [#431 431]||箱||反||坂||板||皮||悲||美||鼻||筆||氷||
+||~ [#441 441]||表||秒||病||品||負||服||福||物||平||返||
+||~ [#451 451]||勉||放||味||命||面||問||役||薬||由||油||
+||~ [#461 461]||有||遊||羊||洋||葉||陽||様||落||流||旅||
+||~ [#471 471]||両||緑||礼||列||練||路||和||的||約||勿||
+||~ [#481 481]||防||岡||満||産||尚||圧||込||辺||最||湿||
+||~ [#491 491]||爪||瓜||巾||布||吊||泉||源||綿||絹||錦||
+
+//401–477 are from Joyo-3; 478–500 are from Kanji Learner Course 169–213//
+
+[[# 401]]
++++ 401.  打
+
++++ 402.  対
+
++++ 403.  第
+
++++ 404.  題
+
++++ 405.  炭
+
++++ 406.  短
+
++++ 407.  談
+
++++ 408.  着
+
++++ 409.  注
+
+||注文||チュウモン||order, requisition||
+
+本屋に本を２冊注文しました。（屋：や、冊：さつ）
+I ordered two books from the bookstore.
+
++++ 410.  柱
+
+[[# 411]]
++++ 411.  丁
+
++++ 412.  帳
+
++++ 413.  調
+
+||強調||キョウチョウ||stress, emphasis||
+
++++ 414.  追
+
++++ 415.  庭
+
+||家庭||カテイ||home, household; family||
+
++++ 416.  笛
+
+||汽笛||キテキ||steam whistle||
+
++++ 417.  鉄
+
++++ 418.  転
+
+||回転||kaiten||rotation, revolution, turning||
+||回転する||kaiten suru||revolve, rotate, turn||
+||自転車||
+
++++ 419.  都
+
+||都合||tugou||circumstances, conditions; (one's) convenience||
+||首都||syûto||capital||
+
+日本の首都は東京です。
+The capital of Japan is Tokyo.
+
++++ 420.  度
+
+||角度||kakudo||(the size of an) angle; angle, viewpoint||
+||強度||kyoudo||intensity, strength||
+
+私たちはその問題をさまざな角度から考察しました。（問題：もんだい、考察：こうさつ）
+We viewed that problem from different angles.
+
+[[# 421]]
++++ 421.  投
+
++++ 422.  島
+
+||広島|| ||Hiroshima||
+
++++ 423.  湯
+
++++ 424. 登
+
+||登場||touzyou||appearance (as character in play, novel); _
+appearance (new product or public figure)||
+||登場する||touzyou suru||appear||
+
++++ 425.  等
+
++++ 426.  動
+
+||自動車||
+||自動||
+
++++ 427.  童
+
++++ 428.  農
+
++++ 429.  波
+
++++ 430.  配
+
+[[# 431]]
++++ 431.  箱
+
++++ 432.  反
+
++++ 433.  坂
+
++++ 434.  板
+
++++ 435.  皮
+
++++ 436.  悲
+
+||悲しい||kanasii, kanásìkatta||sad, sorrowful (for speaker)||
+||悲しいことに||kanasii koto ni||sadly, unfortunately||
+||悲しそうな||kanasi sou na||sad-looking, sad-seeming||
+||悲しみ||kanasimi||sorrow, sadness||
+||悲しむ||kanásìmu, kanásìnde||come to feel saddened, become saddened||
+||悲鳴||himei||scream, cry||
+||悲鳴をあげる||himei o ageru||scream, cry out||
+
+悲しいことにその話はほんとうです。（話：はなし）
+Sadly, that story is true.
+
+そのとき明子はとても悲しそうでした。
+Akiko looked very sad then.
+
+母の悲しみは深いです。（深：ふか）
+My mother's sorrow is deep.
+
+その知らせを聞いて悲しみました。（知：し）
+I heard that news and a felt sad.
+
+田村さんは深く悲しんでいます。（深：ふか）
+Ms. Tamura is deeply saddened.
+
+悲しそうな顔をする。
+I wear a sad look.
+
+少年は悲鳴をあげて助けを求めました。（少年：しょうねん、助：たす、求：もと）
+The boy cried out for help.
+
++++ 437.  美
+
++++ 438.  鼻
+
++++ 439.  筆
+
++++ 440.  氷
+
+[[# 441]]
++++ 441.  表
+
+||公表||kouhyou||public announcement, proclamation||
+
++++ 442.  秒
+
++++ 443.  病
+
++++ 444.  品
+
++++ 445.  負
+
+||勝負||syôubu||game, match, contest||
+||勝負事||syoúbùgoto||gambling||
+
++++ 446.  服
+
++++ 447.  福
+
+||福田||hukuda||Fukuda (surname)||
+
++++ 448.  物
+
++++ 449.  平
+
++++ 450.  返
+
+||読み返す||ヨミカエス||re-read||
+
+[[# 451]]
++++ 451.  勉
+
+||勉強||ベンキョウ||study, studying||
+
++++ 452.  放
+
++++ 453.  味
+
++++ 454.  命
+
+||使命||sîmei||mission, appointed task||
+
++++ 455.  面
+
+||面白い||omósiròi, omósiròkatta||interesting||
+||場面||bâmen||scene (in play), setting; situation, circumstances||
+||図面||zumen||drawing, plan, map, sketch||
+
+このゲームは本当に面白かったです。
+This game was truly entertaining.
+
++++ 456.  問
+
+||顧問||komon||advisor||
+||学問||gakûmon||learning, knowledge, scholarship||
+||問い合わせ||toiawase||reference, request for information||
+||問い合わせる||toiawaseru||inquire about, ask about||
+
++++ 457.  役
+
+||役立つ||ヤクダツ||be useful||
+
++++ 458.  薬
+
++++ 459.  由
+
++++ 460.  油
+
+||石油||セキユ||petroleum, oil||
+||原油||genyu||crude oil||
+
+[[# 461]]
++++ 461.  有
+
++++ 462.  遊
+
++++ 463.  羊
+
++++ 464.  洋
+
+||東洋||tôuyou||the east, the Orient||
+
++++ 465.  葉
+
+||絵葉書||ehagaki||picture postcard||
+||秋葉原||akíhàbara||Akihabara (station and area in Tokyo)||
+
++++ 466.  陽
+
++++ 467.  様
+
++++ 468.  落
+
++++ 469.  流
+
+||交流||kouryuu||exchange, interchange (between people of different organizations or cultures); _
+alternating current||
+
++++ 470.  旅
+
+[[# 471]]
++++ 471.  両
+
+||両親||ryôusin||(both) parents||
+
++++ 472.  緑
+
++++ 473.  礼
+
+||失礼||siturei||discourtesy, impoliteness||
+
++++ 474.  列
+
++++ 475.  練
+
++++ 476.  路
+
++++ 477.  和
+
+||和田||wada||Wada (surname)||
+
++++ 478.  的
+
+||目的||モクテキ||purpose||
+||知的||チテキ||intellectual, mental||
+||部分的な||bubúntèki na||partial||
+
+弟の話は部分的にほんとうです。
+My younger brother's story is partially true.
+
++++ 479.  約
+
++++ 480.  勿
+
+[[# 481]]
++++ 481.  防
+
+||防止||bousi||prevention||
+
++++ 482.  岡
+
+||岡田||okada||Okada (surname)||
+
++++ 483.  満
+
++++ 484.  産
+
+||生産||seisan||production, producing||
+
+カメラの生産は伸びています。（伸：の）
+The production of cameras is increasing.
+
+この工場は何を生産しているのですか。
+What does this factory produce?
+
++++ 485.  尚
+
++++ 486.  圧
+
+||気圧||キアツ||steam pressure||
+
++++ 487.  込
+
++++ 488.  辺
+
++++ 489.  最
+
+||最強||サイキョウ||strongest||
+
++++ 490.  湿
+
+[[# 491]]
++++ 491.  爪
+
++++ 492.  瓜
+
++++ 493.  巾
+
++++ 494.  布
+
++++ 495.  吊
+
++++ 496.  泉
+
++++ 497.  源
+
++++ 498.  綿
+
++++ 499.  絹
+
++++ 500. 錦
+
+[[# 501_600]]
++ 501–600
+
+||~ ||~ 1||~ 2||~ 3||~ 4||~ 5||~ 6||~ 7||~ 8||~ 9||~ 0||
+||~ [#501 501]||愛||衣||位||囲||胃||印||栄||塩||億||加||
+||~ [#511 511]||果||貨||課||芽||改||械||害||街||各||覚||
+||~ [#521 521]||完||官||管||関||観||願||希||季||紀||喜||
+||~ [#531 531]||旗||器||機||議||求||泣||救||給||挙||漁||
+||~ [#541 541]||共||協||鏡||競||極||訓||軍||郡||経||型||
+||~ [#551 551]||景||芸||欠||結||建||健||験||固||功||候||
+||~ [#561 561]||航||康||告||差||菜||材||札||刷||殺||察||
+||~ [#571 571]||参||散||残||士||氏||史||司||試||児||治||
+||~ [#581 581]||辞||失||借||種||周||祝||順||初||松||笑||
+||~ [#591 591]||唱||焼||象||照||賞||臣||省||清||静||席||
+
+//The kanji are from Joyo-4//
+
+[[# 501]]
++++ 501. 愛
++++ 502. 衣
++++ 503. 位
++++ 504. 囲
++++ 505. 胃
++++ 506. 印
++++ 507. 栄
++++ 508. 塩
++++ 509. 億
++++ 510. 加
+
+[[# 511]]
++++ 511. 果
++++ 512. 貨
++++ 513. 課
++++ 514. 芽
++++ 515. 改
++++ 516. 械
++++ 517. 害
++++ 518. 街
++++ 519. 各
++++ 520. 覚
+
+[[# 521]]
++++ 521. 完
++++ 522. 官
++++ 523. 管
++++ 524. 関
+
+||関東||kântou||Kanto (7 prefectures incl. Tokyo)||
+
++++ 525. 観
++++ 526. 願
++++ 527. 希
++++ 528. 季
++++ 529. 紀
++++ 530. 喜
+
+[[# 531]]
++++ 531. 旗
++++ 532. 器
++++ 533. 機
++++ 534. 議
++++ 535. 求
++++ 536. 泣
++++ 537. 救
++++ 538. 給
++++ 539. 挙
++++ 540. 漁
+
+[[# 541]]
++++ 541. 共
++++ 542. 協
++++ 543. 鏡
++++ 544. 競
++++ 545. 極
++++ 546. 訓
++++ 547. 軍
++++ 548. 郡
++++ 549. 経
++++ 550. 型
+
+[[# 551]]
++++ 551. 景
++++ 552. 芸
++++ 553. 欠
++++ 554. 結
++++ 555. 建
++++ 556. 健
++++ 557. 験
++++ 558. 固
++++ 559. 功
++++ 560. 候
+
+[[# 561]]
++++ 561. 航
++++ 562. 康
++++ 563. 告
++++ 564. 差
++++ 565. 菜
++++ 566. 材
++++ 567. 札
++++ 568. 刷
++++ 569. 殺
+
+||殺す||korosu, korosita||kill; suppress, stifle (one's own breathing, feelings); _
+let go to waste, make poor use of||
+||自殺||zisatu||suicide||
+||自殺する||zisatu suru||commit suicide||
+||殺人||satuzin||murder||
+||殺人事件||satúzinzìken||murderer||
+||殺害||satugai||killing; murder||
+||暗殺||ansatu||assassination||
+||殺し||korosi||killing, murder||
+||人殺し||hitogorosi||murder; murderer||
+
+ねずみを殺すつもりですか。
+Do you intend to kill the mouse?
+
+米民間人ファルージャで殺害さる（民間人：みんかんじん）
+American Civilians Slain in Fallujah
+
++++ 570. 察
+
+[[# 571]]
++++ 571. 参
++++ 572. 散
++++ 573. 残
++++ 574. 士
++++ 575. 氏
++++ 576. 史
++++ 577. 司
++++ 578. 試
++++ 579. 児
++++ 580. 治
+
+[[# 581]]
++++ 581. 辞
++++ 582. 失
++++ 583. 借
++++ 584. 種
++++ 585. 周
++++ 586. 祝
++++ 587. 順
++++ 588. 初
++++ 589. 松
+
+||松田|| ||Matsuda (surname)||
+
++++ 590. 笑
+
+[[# 591]]
++++ 591. 唱
++++ 592. 焼
++++ 593. 象
++++ 594. 照
++++ 595. 賞
++++ 596. 臣
++++ 597. 省
++++ 598. 清
++++ 599. 静
++++ 600. 席
+
+[[# 601_700]]
++ 601–700
+
+||~ ||~ 1||~ 2||~ 3||~ 4||~ 5||~ 6||~ 7||~ 8||~ 9||~ 0||
+||~ [#601 601]||積||折||節||説||浅||戦||選||然||争||倉||
+||~ [#611 611]||巣||束||側||続||卒||孫||帯||隊||達||単||
+||~ [#621 621]||置||仲||貯||兆||腸||低||底||停||典||伝||
+||~ [#631 631]||徒||努||灯||堂||働||特||得||熱||念||敗||
+||~ [#641 641]||梅||博||飯||飛||費||必||票||標||夫||府||
+||~ [#651 651]||副||粉||兵||変||便||包||望||牧||末||未||
+||~ [#661 661]||脈||民||勇||要||養||浴||利||陸||良||料||
+||~ [#671 671]||量||輪||類||令||冷||例||歴||連||老||労||
+||~ [#681 681]||録||猪||豚||吾||我||亡||粒||政||至||致||
+||~ [#691 691]||居||故||胡||箇||個||且||汐||渡||限||郎||
+
+//601–681 are from Joyo-4. 682–700 are from Kanji Learner Course 214–286.//
+
+[[# 601]]
++++ 601. 積
++++ 602. 折
++++ 603. 節
++++ 604. 説
++++ 605. 浅
++++ 606. 戦
+
+||決勝戦||keśyòusen||finals, championship game, title match||
+
++++ 607. 選
++++ 608. 然
++++ 609. 争
++++ 610. 倉
+
+[[# 611]]
++++ 611. 巣
++++ 612. 束
++++ 613. 側
++++ 614. 続
++++ 615. 卒
++++ 616. 孫
++++ 617. 帯
++++ 618. 隊
++++ 619. 達
++++ 620. 単
+
+[[# 621]]
++++ 621. 置
++++ 622. 仲
++++ 623. 貯
++++ 624. 兆
++++ 625. 腸
++++ 626. 低
++++ 627. 底
++++ 628. 停
++++ 629. 典
++++ 630. 伝
+
+[[# 631]]
++++ 631. 徒
++++ 632. 努
++++ 633. 灯
++++ 634. 堂
++++ 635. 働
++++ 636. 特
++++ 637. 得
++++ 638. 熱
++++ 639. 念
++++ 640. 敗
+
+[[# 641]]
++++ 641. 梅
++++ 642. 博
++++ 643. 飯
++++ 644. 飛
++++ 645. 費
++++ 646. 必
++++ 647. 票
++++ 648. 標
++++ 649. 夫
++++ 650. 府
+
+[[# 651]]
++++ 651. 副
++++ 652. 粉
++++ 653. 兵
++++ 654. 変
++++ 655. 便
++++ 656. 包
++++ 657. 望
++++ 658. 牧
++++ 659. 末
++++ 660. 未
+
+[[# 661]]
++++ 661. 脈
++++ 662. 民
++++ 663. 勇
++++ 664. 要
++++ 665. 養
++++ 666. 浴
++++ 667. 利
++++ 668. 陸
++++ 669. 良
++++ 670. 料
+
+[[# 671]]
++++ 671. 量
++++ 672. 輪
++++ 673. 類
+
+||分類||bunrui||classification, division into types||
+||分類する||bunrui suru||classify, divide into types||
+
+ここの本を書名で分類しました。（書名：しょめい）
+I classified the books here by titles.
+
++++ 674. 令
++++ 675. 冷
++++ 676. 例
++++ 677. 歴
++++ 678. 連
+
+||連休||renkyuu||two or more holidays in succession||
+
++++ 679. 老
++++ 680. 労
+
+[[# 681]]
++++ 681. 録
++++ 682. 猪
++++ 683. 豚
++++ 684. 吾
++++ 685. 我
++++ 686. 亡
++++ 687. 粒
++++ 688. 政
++++ 689. 至
++++ 690. 致
+
+[[# 691]]
++++ 691. 居
++++ 692. 故
++++ 693. 胡
++++ 694. 箇
++++ 695. 個
++++ 696. 且
++++ 697. 汐
++++ 698. 渡
++++ 699. 限
++++ 700. 郎
+
+[[# back-matter]]
++ Back Matter
+
+++ What it Means to "Know" Kanji
+
+Occasionally a single kanji is used to write a Japanese word, but more often a kanji will be used in conjunction with hiragana or other kanji. Some kanji can be used in scores of different Japanese words.
+
+The best way to measure proficiency is to count not the number of kanji one knows, but the number of Japanese words that one can write with kanji. It is important for someone who wants to learn to read Japanese to fully appreciate this. Nevertheless, it is easier to count kanji, so it serves as a crude measure of progress. A rigorous definition of when one "knows" a kanji would be when one would knows all the Japanese words that can be written with that kanji. However, some of these words might be rare and not even recognized by many native Japanese speakers.
+
+The following definition useful: one "knows" a kanji when one knows how to write the kanji with the correct stroke order, and furthermore one knows how to write at least two Japanese words with it: one using a //kun// reading and one using an //on// reading. The meaning and the pronunciation of the Japanese words should be known. In some cases the kanji might not have a //kun// reading, so knowing a single Japanese word is sufficient.
+
+To attain basic mastery of Japanese writing, one will need to know how to write an average of maybe five Japanese words per kanji. The number of Japanese words varies per kanji, unfortunately. Judgement should be exercised when deciding which Japanese words to learn to write.
+
+++ The Order to Learn Kanji
+
+When learning kanji, it is best to start with the most commonly used kanji and leave the rarest kanji for never. One could take these method to the extreme by computing the frequency counts of kanji in a large corpus, sorting the kanji by descending frequency, and learning the kanji in that order. There is such a list in an appendix of the [https://www.amazon.com/Kodansha-Kanji-Learners-Dictionary-Expanded/dp/1568364075 Kanji Learner's Dictionary].
+
+One could learn the kanji in the order the Japanese themselves learn them. The Ministry of Education provides a list of 2136 //joyo// (regular-use) kanji, and of these 1006 of them are classified as //kyoiku// kanji and are to be learned by elementary school students. Each //kyoiku// kanji is assigned a grade from 1 to 6. The rest of the //joyo// kanji are learned in secondary school. An additional 863 kanji are classified as //jinmeiyo// and can be legally used in personal names.
+
+The [https://www.amazon.com/Kodansha-Kanji-Learners-Course-Step/dp/1568365268 Kanji Learner's Course] enumerates the //joyo// kanji in a candidate order for learning. Each kanji is accompanied by 1 to 5 words which use it and these words never contain forward references; i.e. the words never use higher numbered kanji. The Kanji Learner's Course also groups similar looking kanji as an aid in learning to distinguish them.
+
+++ Readings
+
+Kanji are used to write Japanese words, sometimes by themselves, but more often in conjunction with hiragana or other kanji. When multiple characters are used to write a word, each mora of the word can be assigned to one of the characters. The mora assigned to a kanji are its //reading//. Kanji are said to have both sound and meaning. The number of readings a kanji can have is small, but typically there are least two: an //onyomi// 音読み derived from the Chinese pronunciation of a character and a //kunyomi// 訓読み derived from a Japanese word matching the meaning of the character. //Onyomi// tend to be used in words containing multiple kanji, whereas //kunyomi// tend to be used in words containing a single kanji and one or more hiragana.
+
+Readings are important but one should memorize how to write Japanese words with kanji and not readings. If you have memorized a Japanese word which illustrates a //kunyomi//, the reading will be clear. If you have memorized a Japanese word which illustrates an //onyomi// there is a chance of ambiguity, but the best solution is to memorize two words which illustrate that //onyomi//.
+
+++ Keywords
+
+Kanji are said to have both sound and meaning. This explains why there are more kanji than hiragana or katakana.
+
+When a kanji is used to write a Japanese word, both the sound and the meaning must match. In the case of sound, what this means is precise. One of the small number of readings associated with the kanji must occur in the Japanese word, and if the reading isn't the entire word then other characters are used for the phonetic parts not covered by the kanji.
+
+In the case of meaning, what it means for the kanji and the word to match is vague. When reading Japanese one can actually ignore the meaning of the kanji and use the character instead as a stepping stone to the Japanese word the author intends. The meaning of the Japanese word is needed to understand what the author is saying. If the Japanese word is known, there is no need to think about the "meaning" of the kanji at all!
+
+Character dictionaries for English speakers will list the readings, as well as some English words which are called—at least in some dictionaries—keywords and which represent the meaning of the character. I was surprised to learn Japanese speakers don't use English words in this way when learning kanji. It made me wonder if there is something artificial about keywords. Still I wouldn't rule out their utility for English speakers. On the other hand, if a student is serious about learning Japanese, shouldn't Japanese words be used for this purpose instead?
+
+++ Format
+
+This sheet presents kanji in an order suitable for learning. Each kanji entry consists of two parts.
+
+The first part is a list of commonly used words and phrases which use the kanji. The words and phrases are in a table with three columns. The second column gives the reading of the word or phrase. Kunreishiki romaji is used so the position of accent if any can be indicated. Romaji is useful for typing Japanese on a Western keyboard. Another advantage of romaji—over katakana at least—is that //oo// and //ou// are distinguished, as are //ee// and //ei//. These two pairs are pronounced the same, but one needs to know which is used in a word when typing it or looking it up in the dictionary. The third column contains English glosses of the word or phrase. If the word or phrase has multiple senses, these are separated by semicolons or newlines.
+
+When choosing example words and phrases in the charts below, I've also tried to limit, if not completely eliminate, the use of higher numbered kanji. However, the first 300 kanji are always allowed, as are higher numbered kanji in the same hundred.
+
+The second part of a kanji entry is example sentences illustrating the use of the words and phrases. Each sentence is followed by an English gloss. The readings of higher numbered kanji in the example sentence are given in parentheses after the sentence. Unfortunately the markup syntax that I am using does not support ruby text. The restriction on the use of higher numbered kanji does not apply to example sentences.
+
+++ Names
+
+Names or proper nouns are often written in kanji too. There are a discouragingly large number of them, but one must learn how to write some of them to master Japanese.
+
+When deciding whether to include a Japanese surname that could written with the kanji introduced so far, I check  [https://www.japantimes.co.jp/life/2009/10/11/lifestyle/japans-top-100-most-common-family-names/ Japan's top 100 most common family names] as determined by japantimes.co.jp. Incidentally, when translating Japanese, should one translate 姓 as "family name", "surname", or "last name"? The last sounds most natural in English but risks confusion since the Japanese write their family name first, at least in a "Japanese context". Possibly the Japanese will stop putting their family name last in a "Western context" soon: [https://www.japantimes.co.jp/news/2019/05/22/national/politics-diplomacy/foreign-minister-taro-kono-ask-media-switch-order-japanese-names/ Japan wants international media to put family names first].
+
+||佐藤||Sâtoo||
+||鈴木||Suzuki||
+||高橋||Takahasi||
+||田中||Tanaka||
+||渡辺 or 渡邊||Watanabe||
+||伊藤||Itoo||
+||山本||Yamamoto||
+||中村||Nakamura||
+||小林||Kobayasi||
+||斉藤||Saito||
+
+A list of common given names: [http://www.studentsoftheworld.info/penpals/stats.php3?Pays=JAP Penpal Statistics : Japan]. Given names are double trouble, since a name pronounced a certain way can be written in multiple ways, and a name written a certain way can be pronounced in multiple ways. Given names are more likely to be written with hiragana than surnames. No given names have been included in this page yet.
+
+Cities: [https://en.wikipedia.org/wiki/List_of_cities_in_Japan List of cities in Japan] (12 have population >1M)
+
+||東京||toukyou||Tokyo||
+||横浜||yokohama||Yokohama||
+||大阪||oosaka||Osaka||
+||名古屋|| ||Nagoya||
+||札幌|| ||Sapporo||
+||福岡|| ||Fukuoka||
+||神戸|| ||Kobe||
+||京都|| ||Kyoto||
+||川崎||　||Kawasaki||
+||さいたま|| ||Saitama||
+||広島|| ||Hiroshima||
+||仙台|| ||Sendai||
+
+Main Islands, Regions ([https://en.wikipedia.org/wiki/List_of_regions_of_Japan List of regions of Japan]), and Geographical Features
+
+||北海道||Hókkàido||
+||九州||Kyûusyuu||
+||本州||Hônsyuu||
+||四国||Sikôku||
+
+The island of Honshu is informally divided into these regions, listed from NE to SW. Note that 中国 also refers to China.
+
+||東北||touhoku||Tohoku||
+||関東||kantou||Kanto||
+||中部||tyuubu||Chubu||
+||関西||kansai||Kansai||
+||中国||tyuugoku||Chugoku||
+
+* Lake Biwa
+* Mt Fuji
+* Seto Inland Sea
+* Okinawa
+* Tsugaru Strait
+* Pacific Ocean
+* Sea of Japan
+* Sagami Bay
+
+Prefectures 県: [https://en.wikipedia.org/wiki/Prefectures_of_Japan Prefectures of Japan] (43)
+
+Countries: [https://jref.com/articles/country-names-in-kanji.224/ Country names in Kanji], [https://www.sljfaq.org/afaq/beikoku.html Why is America called bei?]
+
+
+Historical Periods of Japan: [https://en.wikipedia.org/wiki/History_of_Japan History of Japan]
+
+* Jomon
+* Yayoi
+* Kofun
+* Asuka
+* Nara
+* Heian
+* Kamakura
+* Muromachi
+* Azuchi–Momoyama
+* Edo
+* Meiji
+* Taisho
+* Showa
+* Heisei
+* Reiwa
+
+Wards, Districts, Airports of Tokyo [https://en.wikipedia.org/wiki/Special_wards_of_Tokyo Special wards of Tokyo]
+
+||銀座||Ginza||
+||目白||Mêziro||
+||虎ノ門||Toranomon||
+||新宿区||Sinzyuku||
+||上野||Ueno||
+||成田||Narita||
+||羽田||Haneda||
+
+Holidays and festivals
