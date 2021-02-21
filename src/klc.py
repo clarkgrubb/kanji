@@ -21,7 +21,7 @@ def klc(path):
                     character = match.groupdict()['character']
                 else:
                     word = parts[2]
-                    phonetic = parts[4]
+                    phonetic = parts[4].strip('/')
                     gloss = parts[6]
                     if word != '?':
                         sys.stdout.write('\t'.join([index, character, word, phonetic, gloss]))
