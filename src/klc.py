@@ -11,18 +11,18 @@ def klc(path):
         index = ''
         character = ''
         for line in f:
-            parts = line.rstrip().split('|')
-            if len(parts) != 9:
+            parts = line.rstrip().split('||')
+            if len(parts) != 5:
                 sys.stderr.write(f'WARNING bad line {line}')
             else:
-                match = RX_HEADER.search(parts[6])
+                match = RX_HEADER.search(parts[3])
                 if match:
                     index = match.groupdict()['index']
                     character = match.groupdict()['character']
                 else:
-                    word = parts[2]
-                    phonetic = parts[4].strip('/')
-                    gloss = parts[6]
+                    word = parts[1]
+                    phonetic = parts[2].strip('/')
+                    gloss = parts[3]
                     if not word.startswith('?'):
                         sys.stdout.write('\t'.join([index, character, word, phonetic, gloss]))
                         sys.stdout.write('\n')
