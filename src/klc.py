@@ -23,7 +23,7 @@ def klc(path):
                     word = parts[1]
                     phonetic = parts[2].strip('/')
                     gloss = parts[3]
-                    if not word.startswith('?'):
+                    if not word.startswith('?') and not word.startswith('#'):
                         sys.stdout.write('\t'.join([index, character, word, phonetic, gloss]))
                         sys.stdout.write('\n')
 
