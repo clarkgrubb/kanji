@@ -17,9 +17,8 @@ def hebrew(path):
                 hebrew = parts[1]
                 english = parts[2]
                 chapter = parts[3]
-                sys.stdout.write('||')
-                sys.stdout.write('||'.join([chapter, english, hebrew]))
-                sys.stdout.write('||\n')
+                sys.stdout.write('\t'.join([hebrew, english, chapter]))
+                sys.stdout.write('\n')
 
 
 if __name__ == '__main__':
