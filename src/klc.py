@@ -4,7 +4,7 @@ import re
 import sys
 
 DEFAULT_INPUT = os.path.expanduser('~/Source/clarkgrubb/wikidot/kanji-learners-course.txt')
-RX_HEADER = re.compile('^~\s*(?P<index>\d+):\s*(?P<character>\S)\s*$')
+RX_HEADER = re.compile(r'^~\s*(?P<index>\d+):\s*(?P<character>\S)\s*$')
 
 def klc(path):
     with open(path) as f:
