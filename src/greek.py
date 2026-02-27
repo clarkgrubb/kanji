@@ -11,7 +11,7 @@ def greek(path):
         character = ''
         for line in f:
             parts = line.rstrip().split('||')
-            if len(parts) != 5:
+            if len(parts) != 6:
                 sys.stderr.write(f'WARNING bad line {line}')
             else:
                 greek = parts[1]
