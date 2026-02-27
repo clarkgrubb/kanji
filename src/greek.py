@@ -18,7 +18,7 @@ def greek(path):
                 latin = parts[2]
                 english = parts[3]
                 chapter = parts[4]
-                if greek != 'Greek':
+                if 'Greek' not in greek:
                     sys.stdout.write('\t'.join([greek, latin, english, chapter]))
                     sys.stdout.write('\n')
 
