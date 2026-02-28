@@ -11,14 +11,17 @@ def hebrew(path):
         character = ''
         for line in f:
             parts = line.rstrip().split('||')
-            if len(parts) != 5:
+            if len(parts) != 7:
                 sys.stderr.write(f'WARNING bad line {line}')
             else:
                 hebrew = parts[1]
-                english = parts[2]
-                chapter = parts[3]
-                sys.stdout.write('\t'.join([hebrew, english, chapter]))
-                sys.stdout.write('\n')
+                akkadian = parts[2]
+                aramaic = parts[3]
+                english = parts[4]
+                chapter = parts[5]
+                if 'Hebrew' not in hebrew:
+                    sys.stdout.write('\t'.join([hebrew, akkadian, aramaic, english, chapter]))
+                    sys.stdout.write('\n')
 
 
 if __name__ == '__main__':
